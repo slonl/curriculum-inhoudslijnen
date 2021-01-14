@@ -1,0 +1,97 @@
+{
+    "definitions": {
+        "inh_vakleergebied": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "vakleergebied_id": {
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
+                },
+                "inh_inhoudslijn_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/inh_inhoudslijn"
+                            }
+                        }
+                    ]
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","inh_inhoudslijn_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ],
+            "not": {
+                "required": ["inh_cluster_id"]
+            }
+        },
+        "inh_inhoudslijn": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "inh_cluster_id": {
+                    "itemTypeReference": "#/definitions/inh_cluster"
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","inh_cluster_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },
+        "inh_cluster": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+            "required": ["id","title","doelniveau_id"]
+        }
+    },
+    "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "inh_vakleergebied": {
+            "#file": "data/inh.vakleergebieden.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/inh_vakleergebied"
+            }
+        },
+        "inh_inhoudslijn": {
+            "#file": "data/inh.inhoudslijnen.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/inh_inhoudslijn"
+            }
+        },
+        "inh_cluster": {
+            "#file": "data/inh.clusters.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/inh_cluster"
+            }
+        },
+        "deprecated": {
+            "#file": "data/deprecated.json",
+            "type": "array"
+        }
+    },
+    "required": ["inh_vakleergebied","inh_inhoudslijn","inh_cluster"]
+}

@@ -1,0 +1,30 @@
+{
+	"@context": {
+		"inhoudslijnen": "http://opendata.slo.nl/curriculum/schemas/inhoudslijn.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"inh_cluster_id": {
+			"@container": "@set"
+		},
+		"inh_inhoudslijn_id": {
+			"@container": "@set"
+		},
+		"inh_vakleergebied": {
+			"@id": "inhoudslijn:#inh_vakleergebied"
+		},
+		"inh_inhoudslijn": {
+			"@id": "inhoudslijn:#inh_inhoudslijn"
+		},
+		"inh_cluster": {
+			"@id": "inhoudslijn:#inh_cluster"
+		},
+		"deprecated": {
+			"@id": "inhoudslijn::#deprecated"
+		}
+	}
+}
