@@ -13,5 +13,15 @@
 		"title": "Orientatie op jezelf en de wereld",
 		"id": "0c1d1325-91f5-4700-b6fc-5f537364f00c",
 		"unreleased": true
+	},
+	{
+		"prefix": "bo",
+		"vakleergebied_id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
+		"inh_inhoudslijn_id": [
+			"047c0c12-e4fb-47a0-9a96-dd9f8d68bf79"
+		],
+		"title": "Bewegingsonderwijs",
+		"id": "2ad73df9-35a0-4b9d-a946-bf501a0bff40",
+		"unreleased": true
 	}
 ]
