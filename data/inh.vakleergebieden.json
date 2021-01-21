@@ -37,5 +37,20 @@
 		"title": "Kunstzinnige oriëntatie",
 		"id": "0a160ad0-197f-450d-8fb7-c11aa0509b47",
 		"unreleased": true
+	},
+	{
+		"prefix": "rw",
+		"vakleergebied_id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
+		"inh_inhoudslijn_id": [
+			"56ef5d20-2bce-4670-9ef3-b5df997f9d63",
+			"e5e72d14-02a6-4e88-b451-a206c1e6c4ee",
+			"8f91da01-44ef-4f73-97e2-e83941d38cea",
+			"75042071-87ce-4115-9056-930c67538aaa",
+			"40793391-b02d-437b-9466-91a009828fdf",
+			"b2b40b03-dc06-438a-b347-1d70c697e819"
+		],
+		"title": "Rekenen en wiskunde",
+		"id": "de856286-e572-4ab9-a21f-7dce64a25645",
+		"unreleased": true
 	}
 ]
