@@ -23,5 +23,19 @@
 		"title": "Bewegingsonderwijs",
 		"id": "2ad73df9-35a0-4b9d-a946-bf501a0bff40",
 		"unreleased": true
+	},
+	{
+		"prefix": "ko",
+		"vakleergebied_id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
+		"inh_inhoudslijn_id": [
+			"a5a4c20f-ff30-4e37-8451-48da39113c71",
+			"ed6b3fe7-cbec-4aff-bdef-87c62988132d",
+			"8d5541a0-b508-4cbc-9e05-bad375108b55",
+			"b2b93fbc-7a7e-4450-9e21-f30394d97f99",
+			"c8a262dc-084e-4337-b231-4d52d7b6ee0e"
+		],
+		"title": "Kunstzinnige oriëntatie",
+		"id": "0a160ad0-197f-450d-8fb7-c11aa0509b47",
+		"unreleased": true
 	}
 ]
