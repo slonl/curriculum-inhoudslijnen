@@ -113,5 +113,70 @@
 		"title": "Bewegingsonderwijs",
 		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79",
 		"unreleased": true
+	},
+	{
+		"prefix": "ko/bv",
+		"inh_cluster_id": [
+			"f0de38d3-a637-4471-b28b-241b7cb01f54",
+			"a631f123-4da1-46fd-824f-ee7fab282ad7",
+			"cbe2d11f-cb1a-4699-be4a-b4f9284be2f4",
+			"f113a9c0-b394-45a8-821f-a9e932f7acd8",
+			"7e673db3-7778-432e-900a-03b5bbe5bc46"
+		],
+		"title": "Inhoudslijn Beeldende vorming",
+		"id": "a5a4c20f-ff30-4e37-8451-48da39113c71",
+		"unreleased": true
+	},
+	{
+		"prefix": "ko/mu",
+		"inh_cluster_id": [
+			"03c5356a-0c3e-4641-9583-bfa147d71243",
+			"9b04b073-822a-4e6b-98dd-08b431f50647",
+			"985355d8-5369-4913-8f3c-28ac9fbe04f0",
+			"5434bed4-c689-48de-9278-4143ac5fd14b",
+			"5f5e9eda-e004-4b71-ae1a-7fbccf8c16aa"
+		],
+		"title": "Inhoudslijn Muziek",
+		"id": "ed6b3fe7-cbec-4aff-bdef-87c62988132d",
+		"unreleased": true
+	},
+	{
+		"prefix": "ko/dr",
+		"inh_cluster_id": [
+			"61719a36-83f7-41a2-a94d-c520e5caccf0",
+			"4f9e41c4-ec04-4520-89fa-97a06e70edb7",
+			"567c29fb-4c08-412e-9bdc-6ed831d72d6e",
+			"f1717656-c9ce-4930-bb2f-2dfb531c5de2",
+			"63e7b64d-0d28-4344-9f24-da661c7526ac"
+		],
+		"title": "Inhoudslijn Drama",
+		"id": "8d5541a0-b508-4cbc-9e05-bad375108b55",
+		"unreleased": true
+	},
+	{
+		"prefix": "ko/da",
+		"inh_cluster_id": [
+			"6dbb172c-68ff-4701-af4b-e29aad964dcd",
+			"44f871ec-187e-4a37-a134-cd8b6cc9870a",
+			"c4ccb65a-46e8-48c7-8f06-9d9a80da641d",
+			"be75d6a4-aad8-4acb-9660-de44d03ebce7",
+			"9f37e6b4-2b33-47cb-8f28-d3780547db31"
+		],
+		"title": "Inhoudslijn Dans",
+		"id": "b2b93fbc-7a7e-4450-9e21-f30394d97f99",
+		"unreleased": true
+	},
+	{
+		"prefix": "ko/ce",
+		"inh_cluster_id": [
+			"e1110bac-a1cc-47f2-ae51-3b89eae22d01",
+			"3a0ffad2-2042-478d-a7f6-960c542b4a2b",
+			"1b921efb-2994-4d82-8642-cd1a8f7ac6df",
+			"b5e6cb55-6542-4817-8eda-7f458d554494",
+			"752d5da2-d804-440b-909e-3be1ecd8789c"
+		],
+		"title": "Inhoudslijn Cutureel erfgoed",
+		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e",
+		"unreleased": true
 	}
 ]
