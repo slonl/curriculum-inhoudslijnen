@@ -255,5 +255,54 @@
 		"title": "Verbanden",
 		"id": "b2b40b03-dc06-438a-b347-1d70c697e819",
 		"unreleased": true
+	},
+	{
+		"prefix": "NE/MT",
+		"inh_cluster_id": [
+			"e693f8b7-d096-496d-bac3-8e073b8563f7",
+			"97621236-3f5b-40b4-8962-77a6e084f662",
+			"d446faf7-22d5-4470-85f9-03458b29a2f0"
+		],
+		"title": "Inhoudslijn Mondelinge taalvaardigheid",
+		"id": "8fe2ea1f-d8fb-4ddb-a5f2-53f63fd3c0b2",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE",
+		"inh_cluster_id": [
+			"bf0f434d-a3ac-4f89-85e8-1bc600b4ee4f",
+			"9be290d6-ff05-4fdc-b9fa-c6569e0013c5",
+			"2679d5b8-3a3d-48e3-91fc-241386b15c33",
+			"425cf801-2422-4590-b2e2-2ce8caa5fb9d",
+			"3b2d4644-7d47-49ba-b06e-a8861b25d8b1",
+			"be4ef488-18c5-4260-82f8-5289293677fd",
+			"d40056ad-2235-44e3-9463-fe84e2a13096",
+			"f7c103b9-3879-4216-92d6-42e679c2b6cc",
+			"bdcd2a9c-f6ac-4ece-9088-b31a6b5bcd61"
+		],
+		"title": "Lezen",
+		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/SCH",
+		"inh_cluster_id": [
+			"4c0f3b6e-c590-4e45-ba6b-43d67e787bac",
+			"bb913ffc-29cc-4c40-b126-f48467741df7"
+		],
+		"title": "Schrijven",
+		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/TB",
+		"inh_cluster_id": [
+			"1e3c193d-eedc-45eb-99b6-8edab70301ea",
+			"e1fe5ecb-b82d-4a50-b398-4882c3f77b33",
+			"be84e200-4010-488a-8427-05683b0f6d7f"
+		],
+		"title": "Taalbeschouwing",
+		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1",
+		"unreleased": true
 	}
 ]
