@@ -2390,5 +2390,229 @@
 		"title": "Verbanden in patronen",
 		"id": "877cb24e-1a92-4f3a-910f-d7fcd58bd52c",
 		"unreleased": true
+	},
+	{
+		"prefix": "NE/MT/01",
+		"inh_subcluster_id": [
+			"0db257f6-488c-4525-af2c-bec4c273ca00",
+			"e4f93b03-c669-4729-abc7-df9f1b55773b",
+			"64f262bf-7c3e-4819-a9bc-18d25f8c73e4",
+			"d43b426c-927d-4de1-99ca-efe1fa4594fd",
+			"725bdf42-3258-4a77-9776-907e426e1128",
+			"1a443d62-2a19-4782-82c8-0ee1dfcbcd8c",
+			"0fe06acc-abcd-4296-a72a-8809d276ad32",
+			"4be74ef2-31d6-4ba5-910a-e83fa648d8c9"
+		],
+		"title": "Gesprekken voeren - Soorten gesprekken",
+		"id": "e693f8b7-d096-496d-bac3-8e073b8563f7",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/MT/02",
+		"inh_subcluster_id": [
+			"41c677e4-7879-433a-ba56-93c36bb9d94c",
+			"ae387231-a9bc-4c94-9a51-b668d8805390",
+			"00ae2e32-bff3-46f8-a1c5-8a1a8066aaa2",
+			"07f4e848-0722-4625-8f40-b72aa40307dd",
+			"73395b65-4caf-4ed4-8a29-36548753ba43",
+			"377f4ce3-0742-4405-bf26-74b907fe4fbf",
+			"0ae7f503-febf-499d-b1cd-1346749042e1",
+			"e95d6b52-2a9b-4cea-b0ac-e380deaa0405",
+			"1e78b01c-1658-43e7-bcda-9f850af5bfe7"
+		],
+		"title": "Luisteren",
+		"id": "97621236-3f5b-40b4-8962-77a6e084f662",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/MT/03",
+		"inh_subcluster_id": [
+			"6ac1fe00-34ef-476a-a956-683e6b088161",
+			"388bdc4a-f788-4825-9842-b0036b242f13",
+			"4a78d551-1968-4555-a009-d7f4df840cce",
+			"c7adfdb7-dca9-4098-ab9c-ec5a28553656",
+			"5503b785-642e-452a-9a4d-38621c08d646",
+			"170d6a33-1191-42c3-9c19-b25ed4750477",
+			"1a2b47a2-f702-42a0-8ea4-ce05e8460dd1",
+			"aeec42d7-764e-42d1-a499-2ff443358c84",
+			"d9df413e-6052-46b9-b7ee-8bfc61bd5cf5"
+		],
+		"title": "Spreken",
+		"id": "d446faf7-22d5-4470-85f9-03458b29a2f0",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/01",
+		"doelniveau_id": [
+			"a848d8d7-0674-4157-b7fd-af3b0ec0766b",
+			"4ab0b875-9cfc-4f50-991f-dd899ef35f16",
+			"6220a5ae-b9fe-42e4-8334-4c6bc22a6cee",
+			"8c7b2f43-6957-4819-b710-61619204c031",
+			"40bca970-42ce-4960-bc0f-c4eeafbedfd9",
+			"5a38b241-69b5-4c2c-bceb-4cd3b66b9824",
+			"b066eeaf-2876-449f-bfd3-6aeffbc0840d",
+			"1b706def-1d8b-4c6c-921a-0c8a1a8271eb",
+			"4bfb8bc4-4285-4d8e-bfd3-88b5e9bce14f",
+			"e856708e-bd89-461f-b63d-580aa6df5dc6",
+			"cb1cbfa9-5ec3-48c0-8c1b-29cf718f4cb7",
+			"869168bb-1ad1-4a81-9798-db7150fc8cd8",
+			"ffb1f456-2431-471c-9dd2-7324ecb953ce",
+			"c45c7288-f70f-42bd-88fa-ba3156ad5427"
+		],
+		"title": "Leesplezier/leesmotivatie",
+		"id": "bf0f434d-a3ac-4f89-85e8-1bc600b4ee4f",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/02",
+		"inh_subcluster_id": [
+			"c58e7bf1-a4b6-4d66-902e-439fd2771510"
+		],
+		"title": "Oriëntatie op en lezen van zakelijke teksten",
+		"id": "9be290d6-ff05-4fdc-b9fa-c6569e0013c5",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/03",
+		"inh_subcluster_id": [
+			"89dfa6e4-7666-4bec-a580-bc5aacc008e0",
+			"ad2dbcb3-0ab9-48b1-b7ae-2f399c5f2e46",
+			"314abdab-f5b8-417a-ae16-6be6d7196877"
+		],
+		"title": "Zakelijke teksten: kenmerken van de taakuitvoering",
+		"id": "2679d5b8-3a3d-48e3-91fc-241386b15c33",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/04",
+		"inh_subcluster_id": [
+			"0079ddf5-6e23-49df-8de4-234cb717cb48",
+			"a8cd2a9c-11b6-4733-9fb8-38c073d846ca"
+		],
+		"title": "Zakelijke teksten: studievaardigheden",
+		"id": "425cf801-2422-4590-b2e2-2ce8caa5fb9d",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/05",
+		"inh_subcluster_id": [
+			"5c623f19-5713-4903-906e-251220f94e81",
+			"d96c6940-9986-432b-ae1e-281c41abec97",
+			"94150253-a5f6-4132-b01e-513987189248"
+		],
+		"title": "Zakelijke teksten: aanpak",
+		"id": "3b2d4644-7d47-49ba-b06e-a8861b25d8b1",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/06",
+		"inh_subcluster_id": [
+			"d59b9a9e-2b54-4576-8495-db6af6c5a9e7"
+		],
+		"title": "Oriëntatie op en lezen van fictie",
+		"id": "be4ef488-18c5-4260-82f8-5289293677fd",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/07",
+		"inh_subcluster_id": [
+			"fae78def-5751-43d2-9c9c-8a733e1bef3e",
+			"47b0c64f-0d8c-458c-8972-9fe78705f7a8",
+			"f77a7f2f-f386-4872-a7e3-42ce28cb9928"
+		],
+		"title": "Fictie: kenmerken van de taakuitvoering",
+		"id": "d40056ad-2235-44e3-9463-fe84e2a13096",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/08",
+		"doelniveau_id": [
+			"c9387834-bcc3-4268-b38c-6d057b060550",
+			"aebc4e02-119b-48da-b87e-b4c47cd177a0",
+			"e26ab515-2a9e-40a0-a1a7-e765bf641d79",
+			"cf93ce2e-771c-4c6c-aa80-b937053b4ed9",
+			"0847de6a-1bdb-4d3e-b425-b2ce85ff0232",
+			"c8a8be98-95ef-4f60-9eaa-ddf76c5ac4a1"
+		],
+		"title": "Fonemisch bewustzijn en alfabetisch principe",
+		"id": "f7c103b9-3879-4216-92d6-42e679c2b6cc",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/LE/09",
+		"doelniveau_id": [
+			"b100b60e-531b-4406-862b-5eeb82f5e32c",
+			"8e208080-a96e-49f8-ae68-1d6f53c24bbe",
+			"dcd1143f-e15e-4ef1-b122-40f659a2362b",
+			"830bc91c-c2e3-4ad6-a836-6c9e63947179",
+			"866b3824-9891-4791-8d4f-d653319d635a",
+			"d7647762-92e4-4b71-9bff-e49e60d2cddf",
+			"51c9c8e9-cea1-48d1-93f9-449135e2c65a",
+			"a159521b-ddfb-4caf-9e38-3dfb66b127e7",
+			"1d9adb12-5c07-485b-8e89-368e05dc01d7",
+			"8cc3249f-4c8e-4a6e-a3b6-95806931605a",
+			"746899e0-0c43-403c-b4d0-41c63c1ac1e4",
+			"57453f89-ee06-4b1a-8c0e-ecd5a130a69f"
+		],
+		"title": "Technisch lezen",
+		"id": "bdcd2a9c-f6ac-4ece-9088-b31a6b5bcd61",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/SCH/01",
+		"doelniveau_id": [
+			"628d47fb-4a94-4d41-bf6e-51a55680b50b",
+			"c4530c68-32ce-487a-995d-19de3df827ba",
+			"2dfdeff2-a55f-4d9a-841a-952a72d19209",
+			"cb9db4c6-f935-4533-8b48-ab9044ed2201"
+		],
+		"title": "Oriëntatie op geschreven taal",
+		"id": "4c0f3b6e-c590-4e45-ba6b-43d67e787bac",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/SCH/02",
+		"inh_subcluster_id": [
+			"16ebcef8-f110-4977-a75e-3cfc34483191",
+			"c744c937-15e0-4a33-a8c7-49b03053fd1b",
+			"ebc8c269-0aa1-4cbc-9b5b-437847988ae7",
+			"fcf93f27-df23-405c-80c2-165bdabf25ea",
+			"3618d692-a4fb-4637-b027-3a5d17eb39e1",
+			"9754a1b4-c4cb-4677-9686-5ac80bcb793a"
+		],
+		"title": "Schrijven: kenmerken van de taakuitvoering",
+		"id": "bb913ffc-29cc-4c40-b126-f48467741df7",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/TB/01",
+		"inh_subcluster_id": [
+			"12759ab9-2b29-40c6-a371-2deed787d2c3"
+		],
+		"title": "Taalbeschouwing",
+		"id": "1e3c193d-eedc-45eb-99b6-8edab70301ea",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/TB/02",
+		"doelniveau_id": [
+			"9d062085-f635-4fb5-a482-3a0205a690b5",
+			"2f6e76a0-ec28-4363-97b1-1f2868fbd866",
+			"bc7abd1f-035d-45f8-a924-edd3d8ea4947"
+		],
+		"title": "Begrippenlijst",
+		"id": "e1fe5ecb-b82d-4a50-b398-4882c3f77b33",
+		"unreleased": true
+	},
+	{
+		"prefix": "NE/TB/03",
+		"doelniveau_id": [
+			"71735c2c-eb99-489e-a159-2502a003864c",
+			"f7ba3b35-e899-418d-818f-4e38e5310a47",
+			"169f63f4-b5b9-4d69-8410-a4bf92081d9f"
+		],
+		"title": "Taalverzorging",
+		"id": "be84e200-4010-488a-8427-05683b0f6d7f",
+		"unreleased": true
 	}
 ]
