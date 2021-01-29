@@ -41,7 +41,16 @@
                     "type": "string"
                 },
                 "inh_cluster_id": {
-                    "itemTypeReference": "#/definitions/inh_cluster"
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/inh_cluster"
+                            }
+                        }
+                    ]
                 }
             },
             "anyOf": [
@@ -54,6 +63,34 @@
             ]
         },
         "inh_cluster": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "inh_subcluster_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/inh_subcluster"
+                            }
+                        }
+                    ]
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","inh_subcluster_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },
+        "inh_subcluster": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
                 "prefix": {
@@ -86,6 +123,13 @@
             "type": "array",
             "items": {
                 "$ref": "#/definitions/inh_cluster"
+            }
+        },
+        "inh_subcluster": {
+            "#file": "data/inh.subclusters.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/inh_subcluster"
             }
         },
         "deprecated": {
