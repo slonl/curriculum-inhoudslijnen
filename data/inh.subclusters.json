@@ -1,0 +1,586 @@
+[
+	{
+		"prefix": "NE/MT/01/01",
+		"doelniveau_id": [
+			"92092f71-466b-479c-b2f6-efb42cd83c3e",
+			"aefdc55d-14f6-4269-a057-3ce46751543e",
+			"e6ae63a9-d37e-4afe-9788-7c7ca5eb4850"
+		],
+		"title": "Soorten gesprekken",
+		"id": "0db257f6-488c-4525-af2c-bec4c273ca00"
+	},
+	{
+		"prefix": "NE/MT/01/02",
+		"doelniveau_id": [
+			"7bf8d711-8d18-4a07-a02a-b066430556c0",
+			"d1c212ce-f701-42f5-b0d1-c283951adb3c",
+			"1e5016b0-c203-4f6d-965a-a4b61b32a2d6",
+			"29c1d6f4-08e8-4e26-95db-0d18b6a42165",
+			"e60d118e-c4c3-4309-b18a-bfff4fc84bd1"
+		],
+		"title": "Gespreksdoelen",
+		"id": "e4f93b03-c669-4729-abc7-df9f1b55773b"
+	},
+	{
+		"prefix": "NE/MT/01/03",
+		"doelniveau_id": [
+			"89ad50ea-c1b3-4adb-85cd-0bd311952d80",
+			"00fe7353-e737-4c20-b740-07081ad3ada5",
+			"b5fb6d77-c344-4cb3-8cfe-60a2a965e8c5",
+			"b274d83e-0a8a-4cfe-8bc2-24e518a752eb",
+			"ad068566-2c04-499b-881f-7a590c7dcd44",
+			"c484f57f-43e9-479a-a447-1557a74d1e1e",
+			"a4ea011b-e07b-4bf5-8b02-85ab750366e4",
+			"4d9a4c69-1a48-4880-977b-f4428a95dd07",
+			"de36462a-82ea-456c-b9a0-6a7a46bfcdb5",
+			"d4dee9a5-d7a0-4e7b-b3e9-ce27e140b62c",
+			"f9d2a677-1b5f-49d6-99b8-928d5a6304f6",
+			"5cdbb6d5-0fdc-4824-8b0f-1374ab989d05"
+		],
+		"title": "Gespreksregels en -vaardigheden",
+		"id": "64f262bf-7c3e-4819-a9bc-18d25f8c73e4"
+	},
+	{
+		"prefix": "NE/MT/01/04",
+		"doelniveau_id": [
+			"db56071c-fcdc-4467-9df2-5055c4c3a1d0",
+			"e22fb074-849f-4c66-881f-ead6354e7caa",
+			"c0a1919c-c6f1-4bd5-9c6a-77675c8f831c",
+			"0fc522fc-ffbd-411f-837f-af42946ee617",
+			"d5df8dbf-2fae-4dbf-a2da-09516b6a55db",
+			"1cae5684-bc39-4781-9f37-a8ca58aaaf67",
+			"400a198d-afac-41bd-9bc6-997def2c6eb7",
+			"dc1cc2a4-0b3c-4316-8e28-b2f5c68e789f",
+			"e302fa9a-1e65-4e8a-ae99-2487f5834ef7"
+		],
+		"title": "Afstemmen op gesprekspartner(s)",
+		"id": "d43b426c-927d-4de1-99ca-efe1fa4594fd"
+	},
+	{
+		"prefix": "NE/MT/01/05",
+		"doelniveau_id": [
+			"bdc982ae-8fcc-411e-9df2-16fe32d645f9",
+			"10a4230f-0ee2-4bf1-9cac-2d907120cd59",
+			"4d55016f-82b7-42f7-9e34-cbb73bf7e1dd",
+			"5357c5c3-d0e2-4f76-b163-430de8123b0f"
+		],
+		"title": "Woordgebruik en woordenschat",
+		"id": "725bdf42-3258-4a77-9776-907e426e1128"
+	},
+	{
+		"prefix": "NE/MT/01/06",
+		"doelniveau_id": [
+			"9fd9dccd-10bb-464a-840e-32a5f3981696",
+			"2ba9caa6-0ae7-45b5-9a33-2c9e630f4a9a",
+			"925e0d4d-9e2f-4918-812d-86f5cb1f1d08",
+			"fb636100-9cd3-4ac6-a2d1-6a372e3d4166",
+			"8536b713-8fb7-43b2-9d6c-1faf4a8e4338"
+		],
+		"title": "Vloeiendheid, verstaanbaarheid en grammaticale beheersing",
+		"id": "1a443d62-2a19-4782-82c8-0ee1dfcbcd8c"
+	},
+	{
+		"prefix": "NE/MT/01/07",
+		"doelniveau_id": [
+			"4903fa33-8b0d-4fce-9e34-ddb22cfcaa6a",
+			"09a0bcdc-ac2a-4ae0-80c3-ddbcf5b56aa6",
+			"00a9a99a-93bb-43f5-9427-c8c58a5fe8f5",
+			"c64e1753-00d7-4026-8f41-6a92f5563bce"
+		],
+		"title": "Non-verbale communicatie",
+		"id": "0fe06acc-abcd-4296-a72a-8809d276ad32"
+	},
+	{
+		"prefix": "NE/MT/01/08",
+		"doelniveau_id": [
+			"0de3c8da-6e4e-4323-866c-45da748cafc3",
+			"ac8fadcf-607f-48bc-9197-73dba1fdf4e2",
+			"a3550697-34f3-4bef-8f69-449f959518ba",
+			"d04e3e4d-660f-4844-9188-dc2178bfabd9",
+			"32b26fe1-ca10-4e5d-83af-2e7db52777fa",
+			"efdded70-a618-48d9-86d0-278a4d783f75",
+			"e006738f-5cc1-4354-b4cb-0e21e74dab86",
+			"44d8d085-9470-4749-9ca9-b62265566859"
+		],
+		"title": "Aanpak",
+		"id": "4be74ef2-31d6-4ba5-910a-e83fa648d8c9"
+	},
+	{
+		"prefix": "NE/MT/02/01",
+		"doelniveau_id": [
+			"1645f3f0-1632-49a2-ad07-86a41d67cb88",
+			"196feda0-06b6-4d2b-92ea-9cc257f840c2",
+			"2d0d7e96-6d41-4ae2-9db7-04fa85b93fda",
+			"f0073bd8-3c15-4d9c-a9d9-c8f00ae4d769",
+			"6ac7722c-919f-4b8d-b14c-b5b959081218",
+			"387ff93d-bbc6-4f78-9dfc-670bd4521b19"
+		],
+		"title": "Luisteren naar uitleg en instructies",
+		"id": "41c677e4-7879-433a-ba56-93c36bb9d94c"
+	},
+	{
+		"prefix": "NE/MT/02/02",
+		"doelniveau_id": [
+			"e0676ce2-60b8-47cb-b54f-82f3f13e5940",
+			"f57066c9-e623-4b7a-80b3-5d33b4400e13",
+			"b980817c-64a5-4fdd-aee9-533632a28cf2"
+		],
+		"title": "Luisteren als lid van een live publiek",
+		"id": "ae387231-a9bc-4c94-9a51-b668d8805390"
+	},
+	{
+		"prefix": "NE/MT/02/03",
+		"doelniveau_id": [
+			"1aa9a949-6612-4588-abd7-5d74963540dd",
+			"53746412-cc7f-4429-a978-f42fa5d575d4",
+			"874b4038-10e6-4ce4-b628-3d87f9f8f91f"
+		],
+		"title": "Luisteren naar radio, televisie en gesproken tekst op internet",
+		"id": "00ae2e32-bff3-46f8-a1c5-8a1a8066aaa2"
+	},
+	{
+		"prefix": "NE/MT/02/04",
+		"doelniveau_id": [
+			"5d856a36-627f-4598-9492-f98408765e18",
+			"b90c7fc0-cfe0-4fbf-8e15-c4f8b1f0aa1f",
+			"9f6bb928-c51d-4bd5-89b4-99f93a144c31",
+			"ba448595-07b1-4d27-97d7-475922916fef",
+			"982a10fa-3285-4e8c-9d66-cb18e9615060",
+			"27d54ceb-7153-4833-9e60-acd76ab54e51",
+			"ffba49f9-245e-4bba-9810-062f1e481e9a",
+			"86c92576-26ef-4e7f-8cea-750fe8593e84",
+			"b749cd50-adc4-4082-a2a0-fe83b634925a"
+		],
+		"title": "Luisterdoelen en -strategieën",
+		"id": "07f4e848-0722-4625-8f40-b72aa40307dd"
+	},
+	{
+		"prefix": "NE/MT/02/05",
+		"doelniveau_id": [
+			"a3c78808-08eb-48d6-af6b-0549d71be374",
+			"4f74191a-b5c0-4e34-908e-03466c2710c4",
+			"63f0a1b3-dee4-4618-9205-6102e9bd49ee",
+			"4c89754a-1c6b-472a-a323-9bb12c44858d",
+			"78496d80-37b3-4996-a45b-44a4cf1eff5b",
+			"07fbe88b-6c79-4166-8597-3f0f4bbea24c"
+		],
+		"title": "Begrijpen en interpreteren",
+		"id": "73395b65-4caf-4ed4-8a29-36548753ba43"
+	},
+	{
+		"prefix": "NE/MT/02/06",
+		"doelniveau_id": [
+			"694c1e77-4b7e-4d1e-af91-9b9e3cefea1e",
+			"8f4fe347-f85d-47a5-bd61-4a7caa92408c",
+			"67758743-1a1d-4542-b99f-f4dd96734854",
+			"4f567bae-c008-439a-9eee-7e1b954891cb",
+			"510056f8-3a37-4cae-a77f-7de515266c41",
+			"c1bdfc44-f330-437c-977a-3f731c5f2781",
+			"8fe7eb35-ed49-4242-8829-8ff36e098706",
+			"e48e3587-680f-4d35-acd4-81845e533a1e"
+		],
+		"title": "Woordenschat en -strategieën",
+		"id": "377f4ce3-0742-4405-bf26-74b907fe4fbf"
+	},
+	{
+		"prefix": "NE/MT/02/07",
+		"doelniveau_id": [
+			"5246e8b3-8065-406d-ac53-54689d86624b",
+			"90a73eeb-e072-48d0-a199-b98bfe71c1a4",
+			"a23541fe-773a-4461-b883-3603abdbbab7",
+			"21f71924-31a9-470b-a226-481e4e9a4e32"
+		],
+		"title": "Samenvatten",
+		"id": "0ae7f503-febf-499d-b1cd-1346749042e1"
+	},
+	{
+		"prefix": "NE/MT/02/08",
+		"doelniveau_id": [
+			"f24136d5-39d9-407b-b623-e85574012894",
+			"4e13a266-2a4d-4a67-8b1a-d8241d27c6cd",
+			"d0e23e81-7821-4bf0-aee1-a7e68355e328"
+		],
+		"title": "Evalueren",
+		"id": "e95d6b52-2a9b-4cea-b0ac-e380deaa0405"
+	},
+	{
+		"prefix": "NE/MT/02/09",
+		"doelniveau_id": [
+			"d16ed554-4be9-47d9-bd49-b8130bfdf64f",
+			"40f51afc-8b78-4df6-a816-7e7ec2c66ce9",
+			"ad17a241-4361-4409-9995-5dc476fe16f6",
+			"7bdbf68f-89b0-413d-90ed-a01afcee8e59",
+			"b78bd998-580c-41ed-a130-7d25780b3974",
+			"9735f29a-6691-4e5d-b2b5-247e3ab6c43e",
+			"cd8950a6-b72e-41c3-bc3d-32dbddd6e476",
+			"c8d3f349-5624-4414-8999-7e99430bfc2c",
+			"9739387e-75f7-40e8-8c33-0330035da159",
+			"8a50ac2c-1a43-47f8-ae5f-f2634ca3e63d"
+		],
+		"title": "Aanpak",
+		"id": "1e78b01c-1658-43e7-bcda-9f850af5bfe7"
+	},
+	{
+		"prefix": "NE/MT/03/01",
+		"doelniveau_id": [
+			"e05a3f2e-cb72-4c76-8d4c-aa3e2e09efdf",
+			"75d2f4db-616f-47b4-8210-444ecbfe3d9f",
+			"341b5b4b-8e7a-4b93-8421-5f5a67c9e57a"
+		],
+		"title": "Een monoloog houden",
+		"id": "6ac1fe00-34ef-476a-a956-683e6b088161"
+	},
+	{
+		"prefix": "NE/MT/03/02",
+		"doelniveau_id": [
+			"c1130fc0-f940-47c6-ad93-99d00c61bf90",
+			"bda1f89e-e234-447f-bf8a-449e53e3d248",
+			"4fa16271-ac32-4e6f-9a74-ba53344f29cb",
+			"71fcc0a3-87a7-46ab-be90-8a7740688afc",
+			"500e28a3-7c70-4e61-b440-eff89d91ca57",
+			"e8fd735b-fb0c-4371-9095-21a29a81301e",
+			"32bb2d25-d75b-4dd0-bb78-38c86b8b0aad",
+			"813ef425-fd0a-48f6-9639-f07817104e85"
+		],
+		"title": "Samenhang",
+		"id": "388bdc4a-f788-4825-9842-b0036b242f13"
+	},
+	{
+		"prefix": "NE/MT/03/03",
+		"doelniveau_id": [
+			"493a10d9-fb9b-40a1-91c2-46506ca4e1c7",
+			"03344d96-e4e5-4fa3-b07e-d46dea85723b",
+			"5ecdf4f9-d4a6-4ea8-ac06-612774b89ab5",
+			"958829d8-42d4-4f4c-b568-29ee09974e26"
+		],
+		"title": "Spreekdoelen",
+		"id": "4a78d551-1968-4555-a009-d7f4df840cce"
+	},
+	{
+		"prefix": "NE/MT/03/04",
+		"doelniveau_id": [
+			"377c8bd3-41d9-4a55-aa52-e4d3ef1c13f1",
+			"e79c5251-015b-4020-9db3-5ddfe949280b",
+			"ba287f89-9bf5-4f4f-88bf-8602b74aa116",
+			"e73ba1e7-17b6-49fa-9056-501507021aec"
+		],
+		"title": "Publiek",
+		"id": "c7adfdb7-dca9-4098-ab9c-ec5a28553656"
+	},
+	{
+		"prefix": "NE/MT/03/05",
+		"doelniveau_id": [
+			"338a83e0-6958-4a38-9601-c1133b862636",
+			"f524235f-921f-4aa0-8bc9-873ab2f2d7c3",
+			"0bf5e07c-8512-41fd-abb3-e4144c14d9a8",
+			"16d8784d-eeb1-4612-8cb3-82d9f6520db0",
+			"a07bc0b9-611e-4839-bb97-207d901a300c",
+			"ce4d5796-f728-47e1-a58d-27e5a1df2ed4"
+		],
+		"title": "Woordgebruik en woordenschat",
+		"id": "5503b785-642e-452a-9a4d-38621c08d646"
+	},
+	{
+		"prefix": "NE/MT/03/06",
+		"doelniveau_id": [
+			"40f75a91-028e-4244-a148-9ea56c6dd957",
+			"b71fac29-9dac-4730-ae4a-504eaf581a29",
+			"cc756e81-2b3c-4abd-b3a9-57e56642b56b",
+			"d12e35e6-eba5-4a78-9ad3-6e537794f810",
+			"081cbe47-b31e-460e-bf69-8a962b4da20d",
+			"e059336b-0f6c-4061-a83f-16dec40b5e5d"
+		],
+		"title": "Vloeiendheid, verstaanbaarheid en\r\ngrammaticale beheersing",
+		"id": "170d6a33-1191-42c3-9c19-b25ed4750477"
+	},
+	{
+		"prefix": "NE/MT/03/07",
+		"doelniveau_id": [
+			"d38bdb6a-95a0-4a7d-8c9b-9ad105e1512e",
+			"dad7e512-fbac-4b41-89ca-1257e2d81f67",
+			"03e1d8b1-ee7b-4921-a88c-5da45fa264aa",
+			"a874545a-8194-4cb0-9b78-06c7f486c90d"
+		],
+		"title": "Non-verbale communicatie",
+		"id": "1a2b47a2-f702-42a0-8ea4-ce05e8460dd1"
+	},
+	{
+		"prefix": "NE/MT/03/08",
+		"doelniveau_id": [
+			"1ce58544-35c3-40d3-94e4-2fdd772d41b5",
+			"83e2b529-09ce-4298-be6e-92ee44bcca54",
+			"e015684a-3fe0-4301-b6ae-3f50106b4bdf",
+			"4b627fce-0d83-4197-881e-d15d1f4adbc5"
+		],
+		"title": "Visuele ondersteuning",
+		"id": "aeec42d7-764e-42d1-a499-2ff443358c84"
+	},
+	{
+		"prefix": "NE/MT/03/09",
+		"doelniveau_id": [
+			"1d98b096-067e-4250-8396-6a87bfcf8608",
+			"55aa25a5-cd3a-4dcb-b0d6-677682a1477c",
+			"af0b91dd-098d-4625-b6d0-afa39205f54f",
+			"32f437f5-1de1-4934-88f8-26c531d6ebe9",
+			"c3a145cd-345a-413e-b603-930884246974",
+			"b09ea224-48b6-4474-8ccc-7856a6d5e9f1",
+			"0b954822-6f07-4264-9250-512f52566662",
+			"db2ffea0-f1cd-493a-9a97-de77f1787035",
+			"8f614285-1cf7-453e-8de1-f97db449bc99",
+			"22485af5-3ba4-4371-8997-b600e54f0583"
+		],
+		"title": "Aanpak",
+		"id": "d9df413e-6052-46b9-b7ee-8bfc61bd5cf5"
+	},
+	{
+		"prefix": "NE/LE/02/01",
+		"doelniveau_id": [
+			"f22c936f-2cd9-45de-838a-8dd038410492",
+			"2c76ac54-9406-488c-a1ba-9be81476406e",
+			"18dff20a-bc3d-4eba-80ea-15d095e42520"
+		],
+		"title": "Soorten teksten",
+		"id": "c58e7bf1-a4b6-4d66-902e-439fd2771510"
+	},
+	{
+		"prefix": "NE/LE/03/01",
+		"doelniveau_id": [
+			"540d455a-1731-4bf1-8137-670b7b6e4dc7",
+			"e61e75bf-52b0-4f51-ad97-e51827126d5a",
+			"f9bf71be-c99d-4200-b7ad-10457de43a7b",
+			"774cc805-3aae-4e63-a574-9a3451c1ba88"
+		],
+		"title": "Leesdoelen (en publiek)",
+		"id": "89dfa6e4-7666-4bec-a580-bc5aacc008e0"
+	},
+	{
+		"prefix": "NE/LE/03/02",
+		"doelniveau_id": [
+			"6bdb1014-5f4c-4bb3-b70b-975c015c74ef",
+			"8aa9f476-26f2-4a8a-9777-a55760ec71ed",
+			"12778633-408d-4b7e-925f-3f8436dcebe1",
+			"88a7b1a1-e6e4-4733-af59-6d25d014297e",
+			"09f3f9df-9f79-456e-9af0-a3bc59c079fe",
+			"b6ef8f99-5d73-4cc9-8e45-8bd71bce0b13",
+			"55024eee-54db-4157-9cde-78f7d2007cc9",
+			"c6507d5d-7234-48ad-a88e-4ea4f305aaf0",
+			"704dfdec-261c-420f-8ff9-7a448a6b028e"
+		],
+		"title": "Begrijpen en interpreteren",
+		"id": "ad2dbcb3-0ab9-48b1-b7ae-2f399c5f2e46"
+	},
+	{
+		"prefix": "NE/LE/03/03",
+		"doelniveau_id": [
+			"817ea38a-e404-4276-8048-65fc49192c2e",
+			"443e4af0-a059-440e-a37c-9acf5878cded",
+			"1969fdae-1120-4d4b-8397-e20435abd9d5",
+			"ad21f107-476a-48f1-90fb-127e892a02cb",
+			"5cf1041b-a85f-4e04-9ba6-a25251b705fe",
+			"0f7a69ab-9320-401c-bbaa-4d8a9ebdde59"
+		],
+		"title": "Evalueren",
+		"id": "314abdab-f5b8-417a-ae16-6be6d7196877"
+	},
+	{
+		"prefix": "NE/LE/04/01",
+		"doelniveau_id": [
+			"06f085d0-6405-4a3b-bd68-0ab5a9601d98",
+			"7b77b693-8e8f-4fcc-898a-c61bf6d067ac",
+			"14f9833d-2c5f-4207-95b6-b9306f13a180",
+			"54e6399a-3f6a-4d05-8b5f-bb7afa67be82"
+		],
+		"title": "Samenvatten",
+		"id": "0079ddf5-6e23-49df-8de4-234cb717cb48"
+	},
+	{
+		"prefix": "NE/LE/04/02",
+		"doelniveau_id": [
+			"dcfd2616-3d80-468a-b3ba-97c5fd6a4531",
+			"6ef3f143-2bc6-4267-8e87-d4a3ef621db3",
+			"2c8a8e06-9ac7-4c78-a6d6-706de1826865"
+		],
+		"title": "Opzoeken",
+		"id": "a8cd2a9c-11b6-4733-9fb8-38c073d846ca"
+	},
+	{
+		"prefix": "NE/LE/05/01",
+		"doelniveau_id": [
+			"16894583-e039-4a16-ae32-36c2ee3412a3",
+			"8f13e2a6-243b-4297-9c45-6abfb19754f0",
+			"882c3f0b-dee4-4b94-867e-1cfc9b75f6a5",
+			"d5ab23b3-8d35-4bd0-8719-d3a019b0157c"
+		],
+		"title": "Leesstrategieën",
+		"id": "5c623f19-5713-4903-906e-251220f94e81"
+	},
+	{
+		"prefix": "NE/LE/05/02",
+		"doelniveau_id": [
+			"4bdb2c79-6b7e-4130-b1d1-63913b8b7f3c",
+			"fc1b4153-f034-4a17-9a88-602909ada2ba",
+			"41351233-532a-45a0-b1b0-dc8bd662de40",
+			"6b2d847e-a701-46ed-8a3b-787698948dd7"
+		],
+		"title": "(Lees-)woordenschatstrategieën",
+		"id": "d96c6940-9986-432b-ae1e-281c41abec97"
+	},
+	{
+		"prefix": "NE/LE/05/03",
+		"doelniveau_id": [
+			"e657c852-63b2-44b4-b4fc-3bbc510138a0",
+			"2f61968b-45c2-4609-9757-5629239dba54",
+			"2cb06827-3dad-48ed-9648-78a111f5e1c4",
+			"05b904e7-f7bd-42d8-95c1-b7b514c793e7"
+		],
+		"title": "Oriënteren en reflecteren",
+		"id": "94150253-a5f6-4132-b01e-513987189248"
+	},
+	{
+		"prefix": "NE/LE/06/01",
+		"doelniveau_id": [
+			"2c0a3e44-530a-478a-b12d-d536e5f92e4e",
+			"42e3b2d9-e751-4a64-ab3f-0c488de1cbea",
+			"f4f6d2d8-0660-4731-b09a-92b1650d3e32"
+		],
+		"title": "Soorten teksten",
+		"id": "d59b9a9e-2b54-4576-8495-db6af6c5a9e7"
+	},
+	{
+		"prefix": "NE/LE/07/01",
+		"doelniveau_id": [
+			"7d1b4e3d-f503-4ef5-9892-d0a44a392ef4",
+			"375e6a4b-4e5d-4318-8a0b-71b66340e19f",
+			"08c6e72d-e8a7-4c46-88e0-ac6f7bc96994",
+			"ec2eef8d-5033-48b1-9ccf-769211d556ab",
+			"8555c5fb-08d1-4bd4-8206-400e4adfc27f",
+			"a7bf7ca2-64e4-40ef-91d2-7345555d6f00",
+			"a5a5f397-5837-403b-b4fc-7bf69fa55f02",
+			"3029136c-91b8-4926-bff9-7d95da1fe15e",
+			"31853653-0b48-4308-b53d-c0812b6e569c"
+		],
+		"title": "Begrijpen",
+		"id": "fae78def-5751-43d2-9c9c-8a733e1bef3e"
+	},
+	{
+		"prefix": "NE/LE/07/02",
+		"doelniveau_id": [
+			"4a4ede38-63bd-4d15-933f-2a8433b8ac88",
+			"433e432d-bedd-447a-83a1-76b6ef9a0593",
+			"b09305ee-0352-487c-b0ad-ea4a9e193af9",
+			"8e889ff4-6601-47be-8483-5ea80cd7a890",
+			"49c6471c-8472-40ce-9853-e33e4d8c9cd6",
+			"8d06caae-337e-4561-a99b-8f7bdbc9bef7",
+			"bd8d9a52-c307-4d44-aa3c-13436e52e230",
+			"7386514a-b5b7-40a0-b622-32f1df46d73e"
+		],
+		"title": "Interpreteren",
+		"id": "47b0c64f-0d8c-458c-8972-9fe78705f7a8"
+	},
+	{
+		"prefix": "NE/LE/07/03",
+		"doelniveau_id": [
+			"c833c42b-f997-4fe9-9f26-dfad29f79ad0",
+			"632ece4c-4eeb-473b-b28d-8bce8cd28bb3",
+			"65f29d4f-b0c1-4d24-927d-8fc2cd2a1280",
+			"d891b9ae-e306-4f5f-a53b-65431e061f13",
+			"0e040b57-89e7-4580-b338-2fee28df93fa",
+			"899f33d0-6852-4d1e-8393-1a0f0865d595",
+			"2030a08a-6197-43af-ae39-5ed2fe45d382"
+		],
+		"title": "Evalueren",
+		"id": "f77a7f2f-f386-4872-a7e3-42ce28cb9928"
+	},
+	{
+		"prefix": "NE/SCH/02/01",
+		"doelniveau_id": [
+			"aff91146-bac5-4d9a-888f-4b3879deea9e",
+			"69b06092-a855-4bd8-90c7-d6a28950de3e",
+			"4f7f903b-9d60-494b-82d1-05f199562ff6",
+			"bfae8758-5993-4202-beff-a1e539c255fb",
+			"b238e047-aa04-43e9-bae3-4e735282deb3",
+			"75526dfa-60d5-49f9-84be-96210b47db5d",
+			"94c85036-79b9-4bd7-852d-8003b560098e",
+			"90f0fcc5-2535-47d9-b8e1-c280233176c8",
+			"b18d4790-b07a-4d00-9a42-09dd8906f199",
+			"78f9ecf8-0e8f-4be6-a950-7e4a9141ab64",
+			"3bdd23b3-334f-404e-8ce2-689b4c7054f3"
+		],
+		"title": "Schrijfdoelen",
+		"id": "16ebcef8-f110-4977-a75e-3cfc34483191"
+	},
+	{
+		"prefix": "NE/SCH/02/02",
+		"doelniveau_id": [
+			"56f975c3-7ac8-4f0d-82a9-6f4fc80133a6",
+			"ac91613f-1f52-4c96-b308-17b0ff0937b4",
+			"a5b0d4ce-8ea7-46bd-ab7c-d766aae55c0e"
+		],
+		"title": "Soorten teksten",
+		"id": "c744c937-15e0-4a33-a8c7-49b03053fd1b"
+	},
+	{
+		"prefix": "NE/SCH/02/03",
+		"doelniveau_id": [
+			"9ec184a7-522b-4c00-aa99-235229ad1fc6",
+			"1a261999-fe4b-49a0-b832-2465664f1476",
+			"0dfca415-52ec-464a-9ab3-23b2f2caf781"
+		],
+		"title": "Onderwerpen",
+		"id": "ebc8c269-0aa1-4cbc-9b5b-437847988ae7"
+	},
+	{
+		"prefix": "NE/SCH/02/04",
+		"doelniveau_id": [
+			"0444f731-25cd-4722-a426-46213efd8e9c",
+			"38cdc421-ca02-49d8-aff5-606ea7a09ae5",
+			"0c9dcb0d-18db-4864-8e0b-dbce624ab59b",
+			"749b6cef-f1d7-488c-b6e8-643899088cf8"
+		],
+		"title": "Publiek",
+		"id": "fcf93f27-df23-405c-80c2-165bdabf25ea"
+	},
+	{
+		"prefix": "NE/SCH/02/05",
+		"doelniveau_id": [
+			"5ae0a4ed-aee8-4a42-86a6-f3ac1fc31461",
+			"ed2466bb-d66a-49b1-912f-eaa24e1cf234",
+			"7cc82fa8-a99e-4dc8-a692-5c73b8f34367",
+			"83a183d5-480c-4f96-9fbc-992c640e3988",
+			"036049a5-774a-4116-bf07-734c58748376",
+			"19500236-6f67-4bf7-b95f-fd7de72b7379",
+			"79fc2d38-54db-45eb-bd7b-b12db003941e",
+			"8122e473-9835-4ea1-a602-af81d3d34ba3",
+			"727a4802-8d33-4f67-9a91-89c8087a4bab",
+			"87f64420-b874-48d7-b481-002d71d1fa42",
+			"50d6f947-16fb-438e-8bd3-294cac9d7c14",
+			"301d22c0-e5a2-4aa6-8001-dee6b47f709a"
+		],
+		"title": "Aanpak",
+		"id": "3618d692-a4fb-4637-b027-3a5d17eb39e1"
+	},
+	{
+		"prefix": "NE/SCH/02/06",
+		"doelniveau_id": [
+			"9f8f0fb3-5d88-4d07-af69-6663a5e71ab6",
+			"0d1e8dd3-f9b3-4599-a7d1-42f9228124f1",
+			"b25c7c51-5d77-450e-9d1c-083141c7709f",
+			"491ec88a-6a8c-4520-a2b4-26fb732a1ce2",
+			"d8464475-8942-4bd3-a98c-14d2a285ded0",
+			"fdce0a7c-a843-4778-a876-9e30e102ff38",
+			"741710b2-4215-472b-893b-237db12b378e"
+		],
+		"title": "Tekstverzorging/opmaak",
+		"id": "9754a1b4-c4cb-4677-9686-5ac80bcb793a"
+	},
+	{
+		"prefix": "NE/TB/01/01",
+		"doelniveau_id": [
+			"9363ab3a-9bc2-4cf9-b2bb-9c7ac48ba561",
+			"9c484155-90b9-4efc-9798-63c2d55a4b54",
+			"5efb7439-6058-485d-89e6-a2002d6f71cb"
+		],
+		"title": "Praten over taal",
+		"id": "12759ab9-2b29-40c6-a371-2deed787d2c3"
+	}
+]
