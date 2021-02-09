@@ -7,8 +7,7 @@
 			"89faf7d5-ab13-4987-bff0-0b717129fa34"
 		],
 		"title": "Jezelf en de ander",
-		"id": "88381db4-d911-45d2-a243-2958873eec98",
-		"unreleased": true
+		"id": "88381db4-d911-45d2-a243-2958873eec98"
 	},
 	{
 		"prefix": "ojw/ds",
@@ -21,8 +20,7 @@
 			"7167c7a2-99af-404b-b9c5-7a633420d6c7"
 		],
 		"title": "De samenleving",
-		"id": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
-		"unreleased": true
+		"id": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea"
 	},
 	{
 		"prefix": "ojw/rojh",
@@ -36,8 +34,7 @@
 			"82d5d747-a81d-4e05-8c41-b97d958b539c"
 		],
 		"title": "De ruimte om je heen",
-		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee",
-		"unreleased": true
+		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee"
 	},
 	{
 		"prefix": "ojw/pdm",
@@ -49,8 +46,7 @@
 			"76f9a7cc-dfa9-4bbd-9523-78abb0def5e0"
 		],
 		"title": "Planten, dieren en de mens",
-		"id": "019cc172-064c-419a-aedc-7f264d2c2796",
-		"unreleased": true
+		"id": "019cc172-064c-419a-aedc-7f264d2c2796"
 	},
 	{
 		"prefix": "ojw/tijd",
@@ -60,8 +56,7 @@
 			"3e2ffe7e-f1c1-4cdf-a6e4-25042950162d"
 		],
 		"title": "Tijd",
-		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1",
-		"unreleased": true
+		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1"
 	},
 	{
 		"prefix": "ojw/nattech",
@@ -71,8 +66,7 @@
 			"29383320-cd96-4a6e-bec9-1c5c081ff84f"
 		],
 		"title": "Verschijnselen uit natuurkunde en techniek",
-		"id": "0ee152e0-e7b3-42e9-8667-057060391ab2",
-		"unreleased": true
+		"id": "0ee152e0-e7b3-42e9-8667-057060391ab2"
 	},
 	{
 		"prefix": "bo",
@@ -111,8 +105,7 @@
 			"ab4426e8-7d8c-494c-8ba7-526162f89b1c"
 		],
 		"title": "Bewegingsonderwijs",
-		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79",
-		"unreleased": true
+		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79"
 	},
 	{
 		"prefix": "ko/bv",
@@ -124,8 +117,7 @@
 			"7e673db3-7778-432e-900a-03b5bbe5bc46"
 		],
 		"title": "Inhoudslijn Beeldende vorming",
-		"id": "a5a4c20f-ff30-4e37-8451-48da39113c71",
-		"unreleased": true
+		"id": "a5a4c20f-ff30-4e37-8451-48da39113c71"
 	},
 	{
 		"prefix": "ko/mu",
@@ -137,8 +129,7 @@
 			"5f5e9eda-e004-4b71-ae1a-7fbccf8c16aa"
 		],
 		"title": "Inhoudslijn Muziek",
-		"id": "ed6b3fe7-cbec-4aff-bdef-87c62988132d",
-		"unreleased": true
+		"id": "ed6b3fe7-cbec-4aff-bdef-87c62988132d"
 	},
 	{
 		"prefix": "ko/dr",
@@ -150,8 +141,7 @@
 			"63e7b64d-0d28-4344-9f24-da661c7526ac"
 		],
 		"title": "Inhoudslijn Drama",
-		"id": "8d5541a0-b508-4cbc-9e05-bad375108b55",
-		"unreleased": true
+		"id": "8d5541a0-b508-4cbc-9e05-bad375108b55"
 	},
 	{
 		"prefix": "ko/da",
@@ -163,8 +153,7 @@
 			"9f37e6b4-2b33-47cb-8f28-d3780547db31"
 		],
 		"title": "Inhoudslijn Dans",
-		"id": "b2b93fbc-7a7e-4450-9e21-f30394d97f99",
-		"unreleased": true
+		"id": "b2b93fbc-7a7e-4450-9e21-f30394d97f99"
 	},
 	{
 		"prefix": "ko/ce",
@@ -176,8 +165,7 @@
 			"752d5da2-d804-440b-909e-3be1ecd8789c"
 		],
 		"title": "Inhoudslijn Cutureel erfgoed",
-		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e",
-		"unreleased": true
+		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e"
 	},
 	{
 		"prefix": "rw/gb",
@@ -189,8 +177,7 @@
 			"6ca228d2-08f0-4f9f-bbc2-f6104b4b782a"
 		],
 		"title": "Inhoudslijn Getalbegrip",
-		"id": "56ef5d20-2bce-4670-9ef3-b5df997f9d63",
-		"unreleased": true
+		"id": "56ef5d20-2bce-4670-9ef3-b5df997f9d63"
 	},
 	{
 		"prefix": "rw/bew",
@@ -204,8 +191,7 @@
 			"91dbeeab-8dfb-4e88-a418-9f516e03956e"
 		],
 		"title": "Inhoudslijn Bewerkingen",
-		"id": "e5e72d14-02a6-4e88-b451-a206c1e6c4ee",
-		"unreleased": true
+		"id": "e5e72d14-02a6-4e88-b451-a206c1e6c4ee"
 	},
 	{
 		"prefix": "rw/verh",
@@ -216,8 +202,7 @@
 			"271c761a-a6ac-4f3b-96ef-b4ea61d9e161"
 		],
 		"title": "Inhoudslijn Verhoudingen",
-		"id": "8f91da01-44ef-4f73-97e2-e83941d38cea",
-		"unreleased": true
+		"id": "8f91da01-44ef-4f73-97e2-e83941d38cea"
 	},
 	{
 		"prefix": "rw/m",
@@ -232,8 +217,7 @@
 			"3bf81690-184e-44ed-961a-a5761d319d15"
 		],
 		"title": "Inhoudslijn Meten",
-		"id": "75042071-87ce-4115-9056-930c67538aaa",
-		"unreleased": true
+		"id": "75042071-87ce-4115-9056-930c67538aaa"
 	},
 	{
 		"prefix": "rw/mk",
@@ -243,8 +227,7 @@
 			"2047cc14-c148-4dcc-8798-0adb33cfd58e"
 		],
 		"title": "Inhoudslijn Meetkunde",
-		"id": "40793391-b02d-437b-9466-91a009828fdf",
-		"unreleased": true
+		"id": "40793391-b02d-437b-9466-91a009828fdf"
 	},
 	{
 		"prefix": "rw/verb",
@@ -253,8 +236,7 @@
 			"877cb24e-1a92-4f3a-910f-d7fcd58bd52c"
 		],
 		"title": "Verbanden",
-		"id": "b2b40b03-dc06-438a-b347-1d70c697e819",
-		"unreleased": true
+		"id": "b2b40b03-dc06-438a-b347-1d70c697e819"
 	},
 	{
 		"prefix": "NE/MT",
@@ -264,8 +246,7 @@
 			"d446faf7-22d5-4470-85f9-03458b29a2f0"
 		],
 		"title": "Inhoudslijn Mondelinge taalvaardigheid",
-		"id": "8fe2ea1f-d8fb-4ddb-a5f2-53f63fd3c0b2",
-		"unreleased": true
+		"id": "8fe2ea1f-d8fb-4ddb-a5f2-53f63fd3c0b2"
 	},
 	{
 		"prefix": "NE/LE",
@@ -281,8 +262,7 @@
 			"bdcd2a9c-f6ac-4ece-9088-b31a6b5bcd61"
 		],
 		"title": "Lezen",
-		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795",
-		"unreleased": true
+		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795"
 	},
 	{
 		"prefix": "NE/SCH",
@@ -291,8 +271,7 @@
 			"bb913ffc-29cc-4c40-b126-f48467741df7"
 		],
 		"title": "Schrijven",
-		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149",
-		"unreleased": true
+		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149"
 	},
 	{
 		"prefix": "NE/TB",
@@ -302,7 +281,6 @@
 			"be84e200-4010-488a-8427-05683b0f6d7f"
 		],
 		"title": "Taalbeschouwing",
-		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1",
-		"unreleased": true
+		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1"
 	}
 ]
