@@ -2,7 +2,7 @@
 	{
 		"prefix": "ojw",
 		"vakleergebied_id": [
-			"86be4684-a214-432b-9622-dd97491e6ce2"
+			"682218a8-0e89-4d4c-938c-36629a474e7c"
 		],
 		"inh_inhoudslijn_id": [
 			"88381db4-d911-45d2-a243-2958873eec98",
@@ -14,7 +14,8 @@
 		],
 		"title": "Orientatie op jezelf en de wereld",
 		"id": "0c1d1325-91f5-4700-b6fc-5f537364f00c",
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"prefix": "bo",
@@ -31,7 +32,7 @@
 	{
 		"prefix": "ko",
 		"vakleergebied_id": [
-			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
+			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
 		],
 		"inh_inhoudslijn_id": [
 			"a5a4c20f-ff30-4e37-8451-48da39113c71",
@@ -42,7 +43,8 @@
 		],
 		"title": "Kunstzinnige oriëntatie",
 		"id": "0a160ad0-197f-450d-8fb7-c11aa0509b47",
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"prefix": "rw",
@@ -64,7 +66,7 @@
 	{
 		"prefix": "NE",
 		"vakleergebied_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
 		],
 		"inh_inhoudslijn_id": [
 			"8fe2ea1f-d8fb-4ddb-a5f2-53f63fd3c0b2",
@@ -74,6 +76,7 @@
 		],
 		"title": "Nederlands",
 		"id": "73090153-6e32-4258-b6b8-d27001b4ea28",
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	}
 ]
