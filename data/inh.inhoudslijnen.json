@@ -261,8 +261,9 @@
 			"f7c103b9-3879-4216-92d6-42e679c2b6cc",
 			"bdcd2a9c-f6ac-4ece-9088-b31a6b5bcd61"
 		],
-		"title": "Lezen",
-		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795"
+		"title": "Inhoudslijn Lezen",
+		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795",
+		"description": ""
 	},
 	{
 		"prefix": "NE/SCH",
