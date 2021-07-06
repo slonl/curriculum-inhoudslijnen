@@ -271,8 +271,9 @@
 			"4c0f3b6e-c590-4e45-ba6b-43d67e787bac",
 			"bb913ffc-29cc-4c40-b126-f48467741df7"
 		],
-		"title": "Schrijven",
-		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149"
+		"title": "Inhoudslijn Schrijven",
+		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149",
+		"description": ""
 	},
 	{
 		"prefix": "NE/TB",
@@ -281,7 +282,8 @@
 			"e1fe5ecb-b82d-4a50-b398-4882c3f77b33",
 			"be84e200-4010-488a-8427-05683b0f6d7f"
 		],
-		"title": "Taalbeschouwing",
-		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1"
+		"title": "Inhoudslijn Taalbeschouwing",
+		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1",
+		"description": ""
 	}
 ]
