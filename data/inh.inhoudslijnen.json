@@ -104,8 +104,9 @@
 			"27f15a12-c9ae-4344-8782-5a5560d2df21",
 			"ab4426e8-7d8c-494c-8ba7-526162f89b1c"
 		],
-		"title": "Bewegingsonderwijs",
-		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79"
+		"title": "Inhoudslijn Bewegingsonderwijs",
+		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79",
+		"description": ""
 	},
 	{
 		"prefix": "ko/bv",
