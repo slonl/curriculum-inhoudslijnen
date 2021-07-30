@@ -165,8 +165,9 @@
 			"b5e6cb55-6542-4817-8eda-7f458d554494",
 			"752d5da2-d804-440b-909e-3be1ecd8789c"
 		],
-		"title": "Inhoudslijn Cutureel erfgoed",
-		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e"
+		"title": "Inhoudslijn Cultureel erfgoed",
+		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e",
+		"description": ""
 	},
 	{
 		"prefix": "rw/gb",
