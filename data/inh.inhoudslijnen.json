@@ -6,8 +6,9 @@
 			"4b04b52b-896a-4db2-8c8e-26bd87d600d0",
 			"89faf7d5-ab13-4987-bff0-0b717129fa34"
 		],
-		"title": "Jezelf en de ander",
-		"id": "88381db4-d911-45d2-a243-2958873eec98"
+		"title": "Inhoudslijn Jezelf en de ander",
+		"id": "88381db4-d911-45d2-a243-2958873eec98",
+		"description": ""
 	},
 	{
 		"prefix": "ojw/ds",
@@ -19,8 +20,9 @@
 			"2e12886e-c772-43ce-9de2-b5663764dd83",
 			"7167c7a2-99af-404b-b9c5-7a633420d6c7"
 		],
-		"title": "De samenleving",
-		"id": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea"
+		"title": "Inhoudslijn De samenleving",
+		"id": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
+		"description": ""
 	},
 	{
 		"prefix": "ojw/rojh",
@@ -33,8 +35,9 @@
 			"b8934182-febf-43cd-9b17-0ef9b0f1e52b",
 			"82d5d747-a81d-4e05-8c41-b97d958b539c"
 		],
-		"title": "De ruimte om je heen",
-		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee"
+		"title": "Inhoudslijn De ruimte om je heen",
+		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee",
+		"description": ""
 	},
 	{
 		"prefix": "ojw/pdm",
@@ -45,8 +48,9 @@
 			"d4828b9e-acc6-4d9a-8bfa-b4e14ed72d7a",
 			"76f9a7cc-dfa9-4bbd-9523-78abb0def5e0"
 		],
-		"title": "Planten, dieren en de mens",
-		"id": "019cc172-064c-419a-aedc-7f264d2c2796"
+		"title": "Inhoudslijn Planten, dieren en de mens",
+		"id": "019cc172-064c-419a-aedc-7f264d2c2796",
+		"description": ""
 	},
 	{
 		"prefix": "ojw/tijd",
@@ -55,8 +59,9 @@
 			"676da7ee-2ada-424c-984d-84d42b0ebe9b",
 			"3e2ffe7e-f1c1-4cdf-a6e4-25042950162d"
 		],
-		"title": "Tijd",
-		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1"
+		"title": "Inhoudslijn Tijd",
+		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1",
+		"description": ""
 	},
 	{
 		"prefix": "ojw/nattech",
@@ -65,8 +70,9 @@
 			"2e7b0f0d-1231-4a12-8c9c-d56b62a06bf3",
 			"29383320-cd96-4a6e-bec9-1c5c081ff84f"
 		],
-		"title": "Verschijnselen uit natuurkunde en techniek",
-		"id": "0ee152e0-e7b3-42e9-8667-057060391ab2"
+		"title": "Inhoudslijn Verschijnselen uit natuurkunde en techniek",
+		"id": "0ee152e0-e7b3-42e9-8667-057060391ab2",
+		"description": ""
 	},
 	{
 		"prefix": "bo",
@@ -237,8 +243,9 @@
 			"a35e4538-e50c-4953-aa18-005ee1f0c87d",
 			"877cb24e-1a92-4f3a-910f-d7fcd58bd52c"
 		],
-		"title": "Verbanden",
-		"id": "b2b40b03-dc06-438a-b347-1d70c697e819"
+		"title": "Inhoudslijn Verbanden",
+		"id": "b2b40b03-dc06-438a-b347-1d70c697e819",
+		"description": ""
 	},
 	{
 		"prefix": "NE/MT",
