@@ -2290,8 +2290,9 @@
 			"0fe06acc-abcd-4296-a72a-8809d276ad32",
 			"4be74ef2-31d6-4ba5-910a-e83fa648d8c9"
 		],
-		"title": "Gesprekken voeren - Soorten gesprekken",
-		"id": "e693f8b7-d096-496d-bac3-8e073b8563f7"
+		"title": "Gesprekken voeren",
+		"id": "e693f8b7-d096-496d-bac3-8e073b8563f7",
+		"description": ""
 	},
 	{
 		"prefix": "NE/MT/02",
@@ -2454,8 +2455,9 @@
 			"3618d692-a4fb-4637-b027-3a5d17eb39e1",
 			"9754a1b4-c4cb-4677-9686-5ac80bcb793a"
 		],
-		"title": "Schrijven: kenmerken van de taakuitvoering",
-		"id": "bb913ffc-29cc-4c40-b126-f48467741df7"
+		"title": "Kenmerken van de taakuitvoering schrijven",
+		"id": "bb913ffc-29cc-4c40-b126-f48467741df7",
+		"description": ""
 	},
 	{
 		"prefix": "NE/TB/01",
