@@ -2486,5 +2486,476 @@
 		],
 		"title": "Taalverzorging",
 		"id": "be84e200-4010-488a-8427-05683b0f6d7f"
+	},
+	{
+		"prefix": "DG/IDG/CT/Basis",
+		"description": "Kennis hebben van de functie van (onderdelen van) een computer en een computernetwerk en de relevante basisbegrippen hierbij",
+		"doelniveau_id": [
+			"0a145a2c-c1c8-4d43-9ac8-a742f0ea2a79",
+			"25f726a9-ed37-4626-8489-cb6d72c57af2",
+			"661fb12c-e20a-42af-b3bd-9a3aa6fe41c6",
+			"d60a8a97-0705-4ad2-8402-8047d046effd",
+			"2fa28ead-7651-44eb-86fb-f0a52892e75a",
+			"e5ccb88d-e339-4126-bdf1-a815abd5c4e6",
+			"ff849f8c-6d9f-4cdc-a923-d7a4bbe5fda5",
+			"91f4cc49-e6e6-489f-8392-3ab722142f39",
+			"f8053a72-c157-4cab-8625-931a2fc1f926",
+			"4ed7209b-b57e-4de7-8910-ca18f4828285",
+			"847619df-0b0c-4a5f-9fea-aeafd6c7c91b",
+			"4969f810-e721-4ff8-bae0-1ad5da03b3c0",
+			"45d06537-9e21-4938-ae64-a418e4a41a52",
+			"1632ce41-b5bd-4fc9-92f3-eb018abd920d"
+		],
+		"title": "Basisbegrippen ICT ​ ​",
+		"id": "da41c7f5-59a8-44f8-8050-be2d91f7041d",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/IDG/CT/IT",
+		"inh_subcluster_id": [
+			"b0be54da-bec8-44fc-ab75-6d93c12b1d8f",
+			"6778732e-1204-435e-8f3c-1717c3ec4428"
+		],
+		"title": "Infrastructuur technologie ​ ​ ​ ​ ​ ​ ​",
+		"id": "f541f008-c0db-4f7e-9a8d-dffbf8f38379",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/IDG/CT/ST",
+		"inh_subcluster_id": [
+			"6a0098ff-6574-464f-89b3-76547fdbc8a4",
+			"d932d0d3-4bbf-43b5-8a1e-d2437b1c5bcb"
+		],
+		"title": "Standaardtoepassingen ​ ​ ​ ​ ​ ​ ​",
+		"id": "b38d0188-e413-49c8-90e6-ea4804de2b82",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/IDG/CT/VH",
+		"inh_subcluster_id": [
+			"bbea6455-262a-4891-bab9-6f791bc2f1e5"
+		],
+		"title": "Veiligheid ​ ​ ​",
+		"id": "a7e804fe-3068-4423-8552-e9df571416d7",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/IDG/CT/C&P",
+		"inh_subcluster_id": [
+			"3d31f30d-73a4-460d-936b-8bc9eebb8177",
+			"cc310729-599a-4f52-8e95-24fcc64a79cd"
+		],
+		"title": "Creëren en publiceren van media",
+		"id": "18755930-b632-44bb-83ce-a2aa507c9139",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF/FORM",
+		"doelniveau_id": [
+			"a2620e5f-26f6-4a4b-bc4a-5c2af718b31a",
+			"9c17fafe-d16a-448c-a4df-39a0515c4c04",
+			"468d0d07-4a6f-4aa6-b5f7-857b9d792313",
+			"1680fd63-303b-44e8-9019-2823177e6ac0",
+			"c2322a82-4803-48e6-b7eb-ff9f1a7d8df4",
+			"a957c7bf-2fb6-485c-a780-9cb0b4940eb6",
+			"acdcc750-30c5-457e-a22b-35bf26898952",
+			"3c3483f3-f384-48d8-a0e7-749b55262b47",
+			"cd83ab7b-465c-421f-b1b0-ad1c24e60711",
+			"a63becde-bb4d-4d12-94fd-b626012317b4",
+			"41fd7132-ce1e-44e1-b26f-1b2a4cbd4b6d",
+			"f989cbbb-3549-4d4c-9c73-9479840e8a77"
+		],
+		"title": "Stap 1: Informatieprobleem formuleren",
+		"id": "288a267d-5399-4688-b0cc-26edc568c407",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF/ZOEK",
+		"doelniveau_id": [
+			"92ff2ec7-9600-4cfb-ae9f-f38b99b2aa3c",
+			"589e5e9b-f516-48dd-b2c6-233f2ad851f7",
+			"90e22a80-fdb5-4689-b309-2df0a5f0542b",
+			"e49862a9-0b5a-4787-976a-0a651674a1e9",
+			"0207eb0d-43c7-4045-b17c-ad706bbe9d00",
+			"a5caf522-4b8f-4787-a82d-4d31eb0279c3",
+			"708d164a-7875-4535-b2ab-138662ec5782",
+			"af1ba0d3-9be9-469c-8554-216d5349f758",
+			"a59957e7-ace9-4b69-bbe7-11734e42ff3d",
+			"11c82d46-d6ec-4710-a346-3847dbd504ba",
+			"8f7880ba-30ed-4a98-b72d-8fd94f36c766",
+			"dc5c2fd1-eb80-4dc2-94e3-15b9ce2e342a",
+			"04def794-4270-449f-9836-07675b6a37d5",
+			"cf4e9dd5-c4ab-4ce2-878f-9394f574c60c",
+			"72855321-18df-47a1-ae21-ac37e1e9b566",
+			"4b3cc374-eed8-4965-aa5d-c084fd4f671f",
+			"bc3d8e45-e009-40aa-b58c-9e9517bba0b4"
+		],
+		"title": "Stap 2: Zoekstrategieën ​ ​ ​",
+		"id": "d037c6bd-6240-432e-bd24-788df92c91df",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF/V&S",
+		"doelniveau_id": [
+			"874ac362-e8d1-4f22-8425-c7a2455f4522",
+			"e096f2f0-96c5-4419-bd0e-8897fa993573",
+			"927b872d-ad27-4b88-ab22-6af036f37de3",
+			"b54bf4c9-71c0-4412-a704-29c8f0d02aa2",
+			"cc9f2d8c-68ab-459a-8a6e-3a139bdcb4c4",
+			"d697f83c-7a6f-4845-92c2-9f505c70b83b",
+			"cf3ce90c-4252-4616-91e8-2032e978bd50",
+			"212d65f2-0d5b-4024-954c-f8bca032d1c8",
+			"118eee7c-5f38-479b-8089-6947522abdf5",
+			"d5370858-e4e7-4e5f-b451-e2bdf047331a",
+			"ea758152-fedd-41b7-be32-0cda87c0be6e",
+			"4523021e-f425-488a-8979-4110555c08b0",
+			"e2134451-7257-4558-8463-2dcbda807ffe",
+			"dea525da-cce5-4cc2-92d1-75f124bd79a1",
+			"13c8bd59-f23c-4781-8d3f-9b5e720e48e6"
+		],
+		"title": "Stap 3: Verwerven en selecteren van informatie ​",
+		"id": "9684bab9-41ba-4cc3-9dec-a914a2600c86",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF/VERW",
+		"doelniveau_id": [
+			"d7e236d3-2dcc-4a23-ab57-1b05fffc1659",
+			"9d2e9312-85e4-4c09-9fd4-1f54d88730b1",
+			"35c4a6ff-eba6-4a3b-9e1a-b2ebd273d239",
+			"b61f3509-84aa-4e72-b62e-b6008a9511b7",
+			"4d3c1d91-0810-4f22-9590-e7d90347407a",
+			"0c579f25-75c4-4b65-98a5-ce8c98298025",
+			"179cc2a2-1f5c-4788-be14-3d351625db36",
+			"0293f682-db66-49d9-99c5-819725ffbfdc",
+			"5343b7e2-813e-427e-85c2-8dbeff31ea3f",
+			"1ee8378e-2d01-4927-bc6f-41576c1102c6",
+			"e4210e63-fd73-465b-ac1e-b84e7608472e",
+			"08c388e4-76b4-41f1-9385-cdbc1cfdc31f",
+			"17b1d4d7-c4fb-462a-b231-e8244f9f1ea9",
+			"29670519-afca-41e7-bd39-3160f58a44fd",
+			"3fae9082-30e7-40e7-b5a7-b0bff3b49521",
+			"b8791b42-3d89-41fd-8e8f-0f7846a609a6"
+		],
+		"title": "Stap 4: Verwerken van informatie ​ ​",
+		"id": "225aa379-072c-495d-a0be-fd345ec8b746",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF/PRES",
+		"doelniveau_id": [
+			"5e8875f1-ecbe-4b21-8b3d-d735e6e7e3e7",
+			"bd81db0c-c5ce-4d89-afa7-b1724a7d6e5e",
+			"cdf76cca-b121-4b4c-99ae-3b8a85756304",
+			"01fce68e-e353-477b-91c5-561d0733fae5",
+			"5ee4f0d7-4230-4413-adf0-32d2b27e2298",
+			"24106b58-57e0-49eb-a320-2ec23d2c0137"
+		],
+		"title": "Stap 5: Presenteren van informatie ​",
+		"id": "12bb4602-8211-4083-aff2-f6b648618e91",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF/E&B",
+		"doelniveau_id": [
+			"d9f39b19-ea60-4c5b-b61c-7779ad7359f4",
+			"6f2b973a-69ac-40fa-873b-252309dae9dd",
+			"a5bf5f2c-a6b5-4022-abcb-0c9bdb0e01d4",
+			"b2b96896-2928-4856-a860-e3b4dbc29e8f",
+			"54e66011-e9a8-41ea-be99-6c64dafa0fe3",
+			"7e225ab8-48f7-40ff-aa49-09d245f473b6",
+			"c3d6fddd-0138-426b-9944-1dba8782b192",
+			"2b7e233d-c1a4-48cf-b667-516921c78e36"
+		],
+		"title": "Stap 6: Evalueren en beoordelen ​",
+		"id": "4254aa18-a286-464d-a3bc-59243d64f677",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/MEDIA/MvdS",
+		"inh_subcluster_id": [
+			"246b1a40-3e9f-49d2-8666-aaf1bdb399fd"
+		],
+		"title": "Medialisering van de samenleving",
+		"id": "86842223-52a0-4940-b969-80df2403b20d",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/MEDIA/M&B",
+		"inh_subcluster_id": [
+			"3af211bc-b84e-4682-8693-8c9d420b296c",
+			"9bef9719-52c4-480b-a9fb-41e65702bfc6"
+		],
+		"title": "Media en beeldvorming",
+		"id": "914d98d7-6bcf-4127-a63e-88c30c6ddb62",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/MEDIA/MIP",
+		"inh_subcluster_id": [
+			"8b25af09-3d71-4436-84b0-2a7d712b78f3",
+			"b6cdd5a8-4a1f-43ff-8a06-2b52930626e4"
+		],
+		"title": "Media, identiteit en participatie",
+		"id": "efff0504-2d23-43ed-89f3-b66d42309da1",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/PF",
+		"doelniveau_id": [
+			"76022cfa-2f9a-441d-85c0-73e51c6b8676",
+			"e77658e0-3caa-4988-911d-2de032b4f071",
+			"d501667b-6e0b-4fbd-b3ef-117fbdd2719c",
+			"28715477-1c74-4ce5-8215-075376406b8d",
+			"fb89e823-27b7-473d-887a-e35a20aff0f7",
+			"bc4b4a73-27c1-4517-b301-c3bd095d4d2e",
+			"a99274c7-2e65-447e-afb6-808e9a369bbd",
+			"acaa5b65-bf38-4087-8d9c-e6843f6d569c",
+			"3b240505-30db-4301-bd8b-a2bac410bbd9",
+			"e8e33c97-3d4e-4750-aaaf-5e5220897792",
+			"cdb1ce26-5d04-4f9a-bf25-234345d4beeb",
+			"e09f2d59-1b45-4a3f-9596-8b6c699f12e7",
+			"6da7653d-8e23-481d-9bbb-f58dc21ef6f1",
+			"9a507231-de64-4baf-97d0-69d51b9327f7",
+			"f5b4ae58-e195-405f-9442-c66dbf944b6d",
+			"cf931ae7-4717-4629-9cc4-e7a0441b452b"
+		],
+		"title": "Problemen (her)fomuleren ​",
+		"id": "4f13b96d-3436-4cd5-9d18-ced617478e88",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/GV",
+		"doelniveau_id": [
+			"b442e3d1-99fd-4936-90c5-ee0f4740661a",
+			"d3bf18fc-0e6a-40e1-8c92-683bad7e8d8c",
+			"21f64ba7-c418-4349-a310-189ff43497ac",
+			"6cbbc185-ffb9-46d6-80dd-27d395cb73cf",
+			"58594fb0-fbf5-4c82-8748-377105651671",
+			"6b5eb535-06ac-4f47-8d60-8f545340b53a",
+			"cfd2cc09-b859-42ef-aea8-b0b1ab97158b",
+			"b4149160-04da-41e9-912f-f461c6c449eb",
+			"e45af5f8-9f4d-41dc-b045-f7dcd7386d6b",
+			"e68d9144-153f-4ea5-b938-78ddd2cd3491",
+			"96ec4507-1e41-4b19-aebe-71490e93a547",
+			"cb7c6863-4e1c-4003-95cb-56ca73a457f0"
+		],
+		"title": "Gegevens verzamelen ​",
+		"id": "36263d7e-9d83-4c4a-b122-e80cf07ab73e",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/GA",
+		"doelniveau_id": [
+			"35ccd120-7053-4e68-9a8a-0f6528faa819",
+			"5cccdd52-57fb-4ee0-a3dd-a9232ddc8dd5",
+			"28e37662-71c2-458f-95e8-d6874499ddaa",
+			"3cd326b3-2f75-448e-9b13-96d06bbb02eb",
+			"812b1bfb-86a7-40d3-9b66-d24521ca2986",
+			"01c31943-db37-4e28-a9d5-40df5d552459",
+			"e2956277-aa3f-4bfb-816b-f76cfbf039ea",
+			"5b177f2b-f687-4e3a-8ccb-0bf798eb1501",
+			"0de281f0-a8ad-4b25-99b7-e87908d33dd8",
+			"31585ab9-c212-4200-ae8e-55ae16f829a5",
+			"c3ccca6a-9289-4406-8bda-ab49b06b6497",
+			"45cb4f7c-dcf9-4305-9c01-6b970c705194",
+			"920a204a-1002-40d6-a4c6-75ae844a2b3a",
+			"cced1572-e5f5-43ba-8f8c-6aef3d1d42cb",
+			"a76bbef7-6e35-438b-bd8c-de423a7cf70d",
+			"5c35f460-a8db-48b9-9506-72d338ed7bf6",
+			"9160946d-b141-4143-97d2-7c252af133f3",
+			"5c0a6cf8-a255-40da-a55c-ec508ff91f4d"
+		],
+		"title": "Gegevens analyseren ​ ​",
+		"id": "2150875f-61a1-4fa4-b407-fb21bac3ea58",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/GVI",
+		"doelniveau_id": [
+			"1d936493-3bf8-40c3-8b46-09751879fe3a",
+			"1a67cdc2-a3a7-4929-99b3-c127856f8bcc",
+			"de5c4b84-e0f3-4bb8-98c0-fb7060af2a78",
+			"2954171c-78f0-4f58-a16c-e654e50a007e",
+			"6622e119-6023-48d7-934a-a8e7b12af568",
+			"5ea056a0-a9c3-4a1c-8f72-d8bbb95c5dfb",
+			"c5a65422-c728-4eba-bdcf-6a064f7f661b",
+			"1946c211-d30a-4263-9d18-785c1a123832",
+			"20575dfe-4871-4168-b4e4-07accc5d0422",
+			"8b3addcb-5bbc-42c4-88b0-ed6bc262bace",
+			"18e005a9-ff1f-4098-ac7a-6727ec3c77c9",
+			"25739b7c-18b7-4c39-a834-2a11b452fe72",
+			"68b0b257-495f-4381-ae2d-18414290cc83"
+		],
+		"title": "Gegevens visualiseren ​ ​ ​ ​",
+		"id": "f3a121c0-4f18-490f-9aff-7662a2fa7b3c",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/PD",
+		"doelniveau_id": [
+			"9615aa9e-4579-4ebf-a506-ee73fa2624b1",
+			"a9c56416-4fee-4180-ade0-65a030688f38",
+			"14d6be92-a993-497e-b30d-9b751377fa82",
+			"e8710f03-2274-4e90-b80f-812fed058f49",
+			"4fdbacc1-e662-47fb-b362-5963b786c4c3",
+			"b636bafb-ff22-4647-b159-b964eea43d54",
+			"58cecd1c-14e0-4142-8166-c37e85e7fbfe",
+			"2edc2f97-e24f-4998-b46c-a67557c5bc46",
+			"67cffe80-3713-415d-ba25-442045a62a5f",
+			"78565a43-9875-4cd0-8916-9cf76a609e12",
+			"d86d3109-01cd-439b-b907-eb2e57386e9e",
+			"ebb42cc5-d0c7-44b3-aa27-30c3efb3a287",
+			"eddf40b2-95d8-4f7f-9ea7-3c02f193a985",
+			"c7f040e4-0a26-4a64-81c8-37c04f937103",
+			"f6e27cb8-2703-4328-8bd5-1835c2b8b67c",
+			"bf124b16-7247-4bd3-8d94-12c362edea22",
+			"2efe153e-f025-4ee4-a2d0-85eb549d4ca5",
+			"b56e1814-b05e-43e9-ae78-3a8a652388d1",
+			"4d696efd-c823-40c8-a262-a16485689fee",
+			"cf6f876d-5d83-462d-8c5f-32a6e89cb1ff",
+			"053c735b-dce5-4d4a-bc6a-b00f3a1d28d8"
+		],
+		"title": "Probleem decompositie",
+		"id": "428d099e-2126-41e1-bb5d-e982a851b4b7",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/ABS",
+		"doelniveau_id": [
+			"38abc34b-6534-40a1-ad5d-591c3c207aa3",
+			"865c42fc-1737-48d4-a999-1bfc9d3337e6",
+			"98680756-ea2a-49c5-a3ff-f262e879da53",
+			"55f8f21b-a948-441c-af2f-85d0a9579c18",
+			"909f7b00-3f30-4d07-9eb0-7d4805f3e1cd",
+			"10eebc8d-865d-4883-a909-42da68495eed",
+			"e7c399c4-1418-4823-81ad-88479484772e",
+			"22a3a0f8-a31d-4e07-88be-83dbf6f4dda7",
+			"5922b750-4be5-4452-80c1-11e233374c29",
+			"7f4ccbf4-56c4-4af6-a456-0130db8f4b2b",
+			"35c0a201-bc0e-4e74-8677-0ad6ee12373b",
+			"4dfafe15-bd59-4cf0-b4bf-df1f1c85b061",
+			"c2de1f1f-7c33-40c0-8dde-5d998d79769f",
+			"cc0359e0-5c81-42d1-a16d-d8a116e2e37b",
+			"6f92dded-1058-419e-b6aa-d5685a1fc75b",
+			"703c6c0b-1dd5-4bde-9347-d83c36d1e679",
+			"eb81d7b0-0059-4749-b89b-f025d74f6387",
+			"95e94468-a929-433b-aaa8-df66867a2c1e",
+			"201199e8-0429-4b74-8f9f-d83b8d2fef89"
+		],
+		"title": "Abstractie",
+		"id": "cd5724a0-c290-49cb-8a97-28aeee647e12",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/A&P",
+		"doelniveau_id": [
+			"cc655754-4898-42f9-ab16-29f8f625b7fa",
+			"8a8bc9c7-546f-4c97-a983-0ec4fab41e2e",
+			"ca5e598f-6cd0-4c97-a64e-5a0b39add400",
+			"bdb45155-263e-4e46-844c-e9716cdf6581",
+			"325a99e9-055b-43ea-94c4-fe29c9a57527",
+			"fdf91bf0-0b63-4752-9a03-fc0f142d3ed7",
+			"1cead9d6-ca42-4864-b723-b3096fa2d45a",
+			"7374ca6a-50ab-4b98-b2f7-fa0bad6d4f08",
+			"2379c14b-b92a-461f-aca5-92a227ed332e",
+			"8d77494a-afe2-4a33-ad77-1acfa49d802e",
+			"db22038c-f643-4f59-af09-0322fcccea05",
+			"d08fc3cf-12b7-4643-a208-8ebd2ee4aee9",
+			"b0117a8c-6323-44d4-9691-7bd38c5969c1",
+			"e8256fe6-c470-4045-8a1b-7a06260d63d0",
+			"0b51e653-7f02-47bc-a351-471ebd209dfc",
+			"61f016d2-9b60-4c63-aa0a-73c4c64056c4",
+			"67ba8233-b50e-45ad-a4c7-ba2c892f0245",
+			"884b9cad-6731-4b5b-bcfd-b228db34381e",
+			"0da06e30-6a98-4d1b-a403-16991b26c38f",
+			"f0d5bcee-e245-4090-8304-7a3fcc8b7449",
+			"72c56ecf-19d9-450a-b38d-605c3cd0ac48",
+			"414f64b4-bf12-40a3-8b20-c252e6bdb102",
+			"17569f5b-f865-43a5-8401-ba1cf2ac9ec0",
+			"c2ca21bd-738c-4844-a2fd-5308f6abd63b",
+			"8d1daa00-c915-47df-9fbf-a750e82613fb",
+			"7affe216-ba53-4530-9eed-58c9ff171b06",
+			"769873f4-1c75-407c-9e34-0bc7706f6903",
+			"598dd468-dbfa-4006-a9f0-4d5aab6b8d89",
+			"f6e0dea8-8e2d-40e6-a40c-f01c61d45aca",
+			"212f0c46-98f2-48c0-9631-532d5ae91d40",
+			"ab8eb638-e29c-4209-a78c-9502f3e08472",
+			"ce9b1997-8135-4a25-819d-da32cb3307f2",
+			"1674b4cb-1a32-4434-9e06-34f01814edc8",
+			"27875eab-030a-4d62-a44c-58db8d30a8ff",
+			"f49cd75e-1ca3-492f-a517-13a33ef23393",
+			"3d78d92e-9501-4677-8057-f4d9b42eccf4",
+			"bc425f73-31f2-469f-b103-a574ff455314",
+			"86b6c023-4f11-4e90-af09-2104187e2898",
+			"8c3865da-5d4c-4e6c-8ea3-87512362972c",
+			"d4175297-6e5d-4c0c-9306-64d297187c68"
+		],
+		"title": "Algoritmes en procedures ​ ​ ​",
+		"id": "e25a88f0-f45c-4692-a12f-569246c66623",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/AUT",
+		"doelniveau_id": [
+			"5d1563dd-50e3-451d-b1b6-90d8289cd9d1",
+			"d4b47263-a1ba-45e2-aa59-7b341f4da059",
+			"c09aab0d-5b05-40f9-8947-8110aacf413c",
+			"1ebf81a3-0ecf-4218-bccc-23c55b8d0470",
+			"8181a675-4ee1-40a2-957d-dd1df06b7147",
+			"a4c0f408-8062-4d0f-bb72-db5a5a041878",
+			"72ede49b-774d-4e58-91ee-7b8be3d2cba2",
+			"8a05d5ec-0732-464d-a80d-0255b2ba8941",
+			"4d6a5032-ed7d-4085-b9c0-af8b12e8d807",
+			"a4f9305e-1b72-4f54-ad97-d69c3458a3d2",
+			"1e065941-b8b1-414f-99b0-4e624a88d508",
+			"2b141d7f-9765-46bc-9306-d0aa7d3b41a8",
+			"1b6d298f-9056-416f-b3c6-e4990e24a1f1",
+			"c8087b0c-13e8-42f4-8991-fe5c57467283",
+			"e12823af-990b-40e0-8180-4b0f45460acd"
+		],
+		"title": "Automatisering   ​ ​",
+		"id": "343efe27-76c9-4b56-a24c-0860d438bb5c",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/S&M",
+		"doelniveau_id": [
+			"44a421e0-2052-493d-8166-9dfd29b1887c",
+			"0406e26e-2716-4b01-9aff-2182b9ed635f",
+			"e7e9f12e-3676-426a-a55e-ff568674797f",
+			"722ee010-5335-42c6-bc6c-a7a872389357",
+			"720671c6-c85d-4975-95bf-6019d6a8a307",
+			"3e14be01-32f4-421f-85e5-39dcc94c89a7",
+			"51647653-a6ae-40a7-bf4a-46ab47732faf",
+			"7b478ab9-1e8a-4719-aebe-60f7073f5b6d",
+			"b9dfa546-6db5-4e9d-a609-c448bc74c78b",
+			"c05002a3-4719-4c8b-9fd7-eee71a61c5e1",
+			"35209b1c-5376-4ed4-8436-2a8aa68dd38d",
+			"db50656a-86a1-4c24-a9e5-06da47e450dd",
+			"670ecd34-fe14-4696-8925-8146ba5c048d",
+			"5dd846e5-4615-4ecb-b9f6-9772224fef28",
+			"b88a3f06-5d31-4c80-bdf2-86b8ec7c854e",
+			"d3d3ac1f-3bb3-4ccc-a153-82437bacecb2",
+			"8cb30437-7bb7-4a38-a9dc-871bd55c9565",
+			"3c2fa04f-147b-46a0-ad17-5a3910475911"
+		],
+		"title": "Simulatie en modellering ​ ​ ​",
+		"id": "a0eae31c-fc7b-4276-b4bf-69b0a9ee7692",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT/PAR",
+		"doelniveau_id": [
+			"2cd11dbe-7de5-4211-b42a-86d5e06865b4",
+			"f061ff99-41db-4c8d-a180-3d64c7a5d40a",
+			"1ee88661-d18f-4d83-a4d2-14d0798c7b6f",
+			"eda0dfc9-baef-4f7b-b342-e0cbc36af6d1",
+			"8520f658-f724-4ff2-b3c8-a1d3d1d1fbc9",
+			"ab958ccf-b625-4edd-9cc2-a83c3f1d527e"
+		],
+		"title": "Parallellisatie",
+		"id": "8cbb7884-caa7-4e3d-837e-6bd8c83ad181",
+		"unreleased": true
 	}
 ]
