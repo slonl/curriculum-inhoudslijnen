@@ -1,6 +1,6 @@
 [
 	{
-		"prefix": "ojw",
+		"prefix": "OJW",
 		"vakleergebied_id": [
 			"682218a8-0e89-4d4c-938c-36629a474e7c"
 		],
@@ -18,7 +18,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "bo",
+		"prefix": "BO",
 		"vakleergebied_id": [
 			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
 		],
@@ -30,7 +30,7 @@
 		"dirty": true
 	},
 	{
-		"prefix": "ko",
+		"prefix": "KO",
 		"vakleergebied_id": [
 			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
 		],
@@ -47,7 +47,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "rw",
+		"prefix": "RW",
 		"vakleergebied_id": [
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],

@@ -1,6 +1,6 @@
 [
 	{
-		"prefix": "ojw/ja",
+		"prefix": "OJW/ja",
 		"inh_cluster_id": [
 			"e9a12ef2-679e-4f9a-8c1e-36ddd2ddeeb6",
 			"4b04b52b-896a-4db2-8c8e-26bd87d600d0",
@@ -11,7 +11,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "ojw/ds",
+		"prefix": "OJW/ds",
 		"inh_cluster_id": [
 			"5fbee9e2-d530-42c3-958b-6db14933d21f",
 			"b02da96e-29c7-464f-8c31-4f4961ed8c56",
@@ -25,7 +25,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "ojw/rojh",
+		"prefix": "OJW/rojh",
 		"inh_cluster_id": [
 			"69667029-bd2f-4395-8502-32964fb5d8d4",
 			"3ce09d83-9890-48dc-b0e5-dc7636b99b5c",
@@ -40,7 +40,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "ojw/pdm",
+		"prefix": "OJW/pdm",
 		"inh_cluster_id": [
 			"04477187-40a3-46cb-a955-18c361731258",
 			"f4040402-33c1-42b7-9346-194cab0d815c",
@@ -53,7 +53,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "ojw/tijd",
+		"prefix": "OJW/tijd",
 		"inh_cluster_id": [
 			"7e228aa1-025b-4093-b97e-4daf2d9e6d9b",
 			"676da7ee-2ada-424c-984d-84d42b0ebe9b",
@@ -64,7 +64,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "ojw/nattech",
+		"prefix": "OJW/nattech",
 		"inh_cluster_id": [
 			"1d0e6ec2-f241-42c1-9431-c1ef510a7225",
 			"2e7b0f0d-1231-4a12-8c9c-d56b62a06bf3",
@@ -75,7 +75,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "bo",
+		"prefix": "BO",
 		"inh_cluster_id": [
 			"94cc00ac-d077-4c3d-8d2c-63b748669fae",
 			"d096dc33-f99d-472f-83ba-575d68a314c6",
@@ -115,7 +115,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "ko/bv",
+		"prefix": "KO/bv",
 		"inh_cluster_id": [
 			"f0de38d3-a637-4471-b28b-241b7cb01f54",
 			"a631f123-4da1-46fd-824f-ee7fab282ad7",
@@ -127,7 +127,7 @@
 		"id": "a5a4c20f-ff30-4e37-8451-48da39113c71"
 	},
 	{
-		"prefix": "ko/mu",
+		"prefix": "KO/mu",
 		"inh_cluster_id": [
 			"03c5356a-0c3e-4641-9583-bfa147d71243",
 			"9b04b073-822a-4e6b-98dd-08b431f50647",
@@ -139,7 +139,7 @@
 		"id": "ed6b3fe7-cbec-4aff-bdef-87c62988132d"
 	},
 	{
-		"prefix": "ko/dr",
+		"prefix": "KO/dr",
 		"inh_cluster_id": [
 			"61719a36-83f7-41a2-a94d-c520e5caccf0",
 			"4f9e41c4-ec04-4520-89fa-97a06e70edb7",
@@ -151,7 +151,7 @@
 		"id": "8d5541a0-b508-4cbc-9e05-bad375108b55"
 	},
 	{
-		"prefix": "ko/da",
+		"prefix": "KO/da",
 		"inh_cluster_id": [
 			"6dbb172c-68ff-4701-af4b-e29aad964dcd",
 			"44f871ec-187e-4a37-a134-cd8b6cc9870a",
@@ -163,7 +163,7 @@
 		"id": "b2b93fbc-7a7e-4450-9e21-f30394d97f99"
 	},
 	{
-		"prefix": "ko/ce",
+		"prefix": "KO/ce",
 		"inh_cluster_id": [
 			"e1110bac-a1cc-47f2-ae51-3b89eae22d01",
 			"3a0ffad2-2042-478d-a7f6-960c542b4a2b",
@@ -176,7 +176,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "rw/gb",
+		"prefix": "RW/gb",
 		"inh_cluster_id": [
 			"abf0d4e9-1668-4e81-b793-3a9362c41523",
 			"8e967823-94c6-4798-aad6-54ae4d948210",
@@ -188,7 +188,7 @@
 		"id": "56ef5d20-2bce-4670-9ef3-b5df997f9d63"
 	},
 	{
-		"prefix": "rw/bew",
+		"prefix": "RW/bew",
 		"inh_cluster_id": [
 			"2528f8fa-f48d-41ee-8499-c1b65e0bcdf7",
 			"faf3d978-b4cc-4e81-915f-9d51d26f2539",
@@ -202,7 +202,7 @@
 		"id": "e5e72d14-02a6-4e88-b451-a206c1e6c4ee"
 	},
 	{
-		"prefix": "rw/verh",
+		"prefix": "RW/verh",
 		"inh_cluster_id": [
 			"7b0ba86e-3cff-4b1a-b0c9-e08cdc6ab0f8",
 			"154c08cc-e671-491b-bb39-4a6a37160f6a",
@@ -213,7 +213,7 @@
 		"id": "8f91da01-44ef-4f73-97e2-e83941d38cea"
 	},
 	{
-		"prefix": "rw/m",
+		"prefix": "RW/m",
 		"inh_cluster_id": [
 			"6751a815-f132-4bc7-ae29-2825a9b20bb6",
 			"1a149dd1-1ed7-4d83-9af8-b01f9f1434d3",
@@ -228,7 +228,7 @@
 		"id": "75042071-87ce-4115-9056-930c67538aaa"
 	},
 	{
-		"prefix": "rw/mk",
+		"prefix": "RW/mk",
 		"inh_cluster_id": [
 			"b701a3a4-64e0-4a49-8644-9daefe7cc998",
 			"e143cb16-126e-4717-aa6f-67d428bf8357",
@@ -238,7 +238,7 @@
 		"id": "40793391-b02d-437b-9466-91a009828fdf"
 	},
 	{
-		"prefix": "rw/verb",
+		"prefix": "RW/verb",
 		"inh_cluster_id": [
 			"a35e4538-e50c-4953-aa18-005ee1f0c87d",
 			"877cb24e-1a92-4f3a-910f-d7fcd58bd52c"
@@ -305,7 +305,7 @@
 			"18755930-b632-44bb-83ce-a2aa507c9139"
 		],
 		"description": "Kennis en vaardigheden die nodig zijn om met computers (in allerlei vormen) om te gaan. Het gaat hier om de bediening, de mogelijkheden en de beperkingen van digitale technologie. Deze basisvaardigheden zijn de onderlegger voor de andere onderdelen van digitale geletterdheid",
-		"title": "ICT Basisvaardigheden",
+		"title": "Inhoudslijn ICT Basisvaardigheden",
 		"id": "744aeab1-8c33-4338-a0bd-9939416e5121",
 		"unreleased": true
 	},
@@ -320,7 +320,7 @@
 			"4254aa18-a286-464d-a3bc-59243d64f677"
 		],
 		"description": "(Onderzoeks-)proces om systematisch, effectief en efficiënt digitale informatie te zoeken, vinden en delen",
-		"title": "Informatievaardigheden",
+		"title": "Inhoudslijn Informatievaardigheden",
 		"id": "804f19f2-8231-4d0d-9579-cf35c8c2c25c",
 		"unreleased": true
 	},
@@ -332,7 +332,7 @@
 			"efff0504-2d23-43ed-89f3-b66d42309da1"
 		],
 		"description": "Kennis, vaardigheden en mentaliteit die nodig zijn om bewust, kritisch en actief om te gaan met digitale media",
-		"title": "Mediawijsheid",
+		"title": "Inhoudslijn Mediawijsheid",
 		"id": "cb806f58-f342-463f-9a76-282abedc474a",
 		"unreleased": true
 	},
@@ -351,7 +351,7 @@
 			"8cbb7884-caa7-4e3d-837e-6bd8c83ad181"
 		],
 		"description": "Denkvaardigheden en technologie richting programmeren",
-		"title": "Computational thinking",
+		"title": "Inhoudslijn Computational thinking",
 		"id": "ebf0b877-e83c-484f-a14e-14680a1f33a2",
 		"unreleased": true
 	}
