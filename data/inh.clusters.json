@@ -1246,19 +1246,14 @@
 		"doelniveau_id": [
 			"7e04173b-d8a4-4202-91ad-0ef1887abdb7",
 			"aa1b9193-a771-4af7-ac7c-4c724273a724",
-			"e896ae22-33d3-409f-ba96-09e09ee7c7b0",
-			"55ae5f7a-cd15-422c-9afd-59db1465397d",
-			"05b4e8a4-20d6-4ac9-8f37-aeeae157af34",
 			"f9d916dd-b77a-4cb2-9e3c-63603581a248",
 			"58a9b684-40e4-44ec-8b55-20cdb383e4f8",
-			"441be197-782d-45d3-bfbe-345b823e10c9",
-			"b3eafbcb-7fff-42bd-bd57-64a86fe589a2",
-			"1056d902-e17a-4dd0-ae2f-2365dd8f265b",
 			"bbedbfe3-a055-4568-86c1-6748ab323a75",
 			"9346f574-6ab1-4db4-8939-a56497abc01b"
 		],
 		"title": "Luisteren naar muziek",
-		"id": "9b04b073-822a-4e6b-98dd-08b431f50647"
+		"id": "9b04b073-822a-4e6b-98dd-08b431f50647",
+		"description": ""
 	},
 	{
 		"prefix": "ko/mu/3",
@@ -1282,7 +1277,8 @@
 			"9ae6319a-8619-448e-b481-f8ce8bd18085"
 		],
 		"title": "Kennismaken met klank, vorm en notatie van muziek",
-		"id": "985355d8-5369-4913-8f3c-28ac9fbe04f0"
+		"id": "985355d8-5369-4913-8f3c-28ac9fbe04f0",
+		"description": ""
 	},
 	{
 		"prefix": "ko/mu/4",
