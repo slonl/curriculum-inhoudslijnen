@@ -1461,7 +1461,6 @@
 			"ba633ed4-f5cc-4272-a7b3-15157a8bfa51",
 			"8cc59722-29d2-4167-a511-adf7b831464c",
 			"426bee1a-717a-4d6e-a6c7-cf872c0bf97f",
-			"cdcc849e-838e-4ea0-aa55-50eb453e3369",
 			"51b48eaa-53db-406a-9d23-012e8d4ddb82",
 			"66ad861f-13e9-4814-bc3d-0795bcf5965f",
 			"1659c741-87b9-4ddd-a6d5-634f896d0356",
@@ -1471,20 +1470,15 @@
 			"49e97eef-1db6-4dfc-a636-6460d38bd375"
 		],
 		"title": "Kijken naar dans",
-		"id": "44f871ec-187e-4a37-a134-cd8b6cc9870a"
+		"id": "44f871ec-187e-4a37-a134-cd8b6cc9870a",
+		"description": ""
 	},
 	{
 		"prefix": "ko/da/3",
 		"doelniveau_id": [
-			"441f87b7-e89f-4136-9d67-086f31f1a7c1",
-			"7b1f5313-bc12-4e8c-8147-6f5f9cfceb9d",
-			"3f3e5add-09b2-4444-a586-cdabc18b4c0f",
 			"c5797246-7515-4cf3-99c3-4c5970d58a12",
 			"72d99cf2-e356-4791-8150-8463c4c56910",
 			"408dfbd3-dd1d-4a2d-af44-28e98308a8ab",
-			"e5df2793-09f5-48bc-b8d5-36b3fd4bc0f1",
-			"5612aa69-6cb7-482e-9ea7-c4c8513d5b4e",
-			"d645fd6d-af10-4974-81bd-0399b57683b7",
 			"744de694-718a-401b-98c6-1ba357571813",
 			"a4000ce2-83f1-4830-a0c5-8e62bff6e90d",
 			"3a1716f2-2eb5-4768-ab38-02afdcf683a9",
@@ -1495,7 +1489,8 @@
 			"7b75acde-cc52-471e-b2e9-7a398fc43660"
 		],
 		"title": "Kennismaken met danselementen en technieken",
-		"id": "c4ccb65a-46e8-48c7-8f06-9d9a80da641d"
+		"id": "c4ccb65a-46e8-48c7-8f06-9d9a80da641d",
+		"description": ""
 	},
 	{
 		"prefix": "ko/da/4",
