@@ -306,8 +306,7 @@
 		],
 		"description": "Kennis en vaardigheden die nodig zijn om met computers (in allerlei vormen) om te gaan. Het gaat hier om de bediening, de mogelijkheden en de beperkingen van digitale technologie. Deze basisvaardigheden zijn de onderlegger voor de andere onderdelen van digitale geletterdheid",
 		"title": "Inhoudslijn ICT Basisvaardigheden",
-		"id": "744aeab1-8c33-4338-a0bd-9939416e5121",
-		"unreleased": true
+		"id": "744aeab1-8c33-4338-a0bd-9939416e5121"
 	},
 	{
 		"prefix": "DG/INF",
@@ -321,8 +320,7 @@
 		],
 		"description": "(Onderzoeks-)proces om systematisch, effectief en efficiënt digitale informatie te zoeken, vinden en delen",
 		"title": "Inhoudslijn Informatievaardigheden",
-		"id": "804f19f2-8231-4d0d-9579-cf35c8c2c25c",
-		"unreleased": true
+		"id": "804f19f2-8231-4d0d-9579-cf35c8c2c25c"
 	},
 	{
 		"prefix": "DG/MEDIA",
@@ -333,8 +331,7 @@
 		],
 		"description": "Kennis, vaardigheden en mentaliteit die nodig zijn om bewust, kritisch en actief om te gaan met digitale media",
 		"title": "Inhoudslijn Mediawijsheid",
-		"id": "cb806f58-f342-463f-9a76-282abedc474a",
-		"unreleased": true
+		"id": "cb806f58-f342-463f-9a76-282abedc474a"
 	},
 	{
 		"prefix": "DG/CT",
@@ -352,7 +349,6 @@
 		],
 		"description": "Denkvaardigheden en technologie richting programmeren",
 		"title": "Inhoudslijn Computational thinking",
-		"id": "ebf0b877-e83c-484f-a14e-14680a1f33a2",
-		"unreleased": true
+		"id": "ebf0b877-e83c-484f-a14e-14680a1f33a2"
 	}
 ]

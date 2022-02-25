@@ -608,8 +608,7 @@
 			"c1124720-105e-4c8f-a5ca-45dd5bb0227f"
 		],
 		"title": "Kennis hebben en begrijpen van digitale technologie",
-		"id": "b0be54da-bec8-44fc-ab75-6d93c12b1d8f",
-		"unreleased": true
+		"id": "b0be54da-bec8-44fc-ab75-6d93c12b1d8f"
 	},
 	{
 		"prefix": "DG/IDG/CT/IT2",
@@ -650,8 +649,7 @@
 			"b0b7fa7c-b674-4483-89fa-d79bda836bf5"
 		],
 		"title": "Digitale apparaten en besturingssystemen (platforms) gebruiken en software/apps beheren",
-		"id": "6778732e-1204-435e-8f3c-1717c3ec4428",
-		"unreleased": true
+		"id": "6778732e-1204-435e-8f3c-1717c3ec4428"
 	},
 	{
 		"prefix": "DG/IDG/CT/ST1",
@@ -673,8 +671,7 @@
 			"ecf13524-7924-4ca9-8895-4409b75ed7fb"
 		],
 		"title": "Kantoortoepassingen voor tekstverwerking, presentatie en spreadsheet functioneel gebruiken",
-		"id": "6a0098ff-6574-464f-89b3-76547fdbc8a4",
-		"unreleased": true
+		"id": "6a0098ff-6574-464f-89b3-76547fdbc8a4"
 	},
 	{
 		"prefix": "DG/IDG/CT/ST2",
@@ -693,8 +690,7 @@
 			"ac4106c1-84e6-4c7d-84ba-fedefa817c5e"
 		],
 		"title": "Communicatieprogramma's, apps en een internetbrowser functioneel gebruiken",
-		"id": "d932d0d3-4bbf-43b5-8a1e-d2437b1c5bcb",
-		"unreleased": true
+		"id": "d932d0d3-4bbf-43b5-8a1e-d2437b1c5bcb"
 	},
 	{
 		"prefix": "DG/IDG/CT/V1",
@@ -721,8 +717,7 @@
 			"a77c0f6f-aee1-4d03-98ff-ce80a9b5c557"
 		],
 		"title": "Veilig omgaan met computers en met programmatuur voor internet zoals email, tekenen, tekstverwerken en opnemen/bewerken van audio en video",
-		"id": "bbea6455-262a-4891-bab9-6f791bc2f1e5",
-		"unreleased": true
+		"id": "bbea6455-262a-4891-bab9-6f791bc2f1e5"
 	},
 	{
 		"prefix": "DG/IDG/CT/CPM1",
@@ -759,8 +754,7 @@
 			"fa157e00-512c-426c-a7aa-5c5f492f7597"
 		],
 		"title": "Diverse vormen van 'content' creëren door functioneel en creatief gebruik van standaardtoepassing(en) en audiovisuele communicatiemiddelen",
-		"id": "3d31f30d-73a4-460d-936b-8bc9eebb8177",
-		"unreleased": true
+		"id": "3d31f30d-73a4-460d-936b-8bc9eebb8177"
 	},
 	{
 		"prefix": "DG/IDG/CT/CPM2",
@@ -774,8 +768,7 @@
 			"fdff58ea-5b3b-44fc-bfb6-2509e50b7707"
 		],
 		"title": "Verschillende media gebruiken voor de publicatie van 'content'",
-		"id": "cc310729-599a-4f52-8e95-24fcc64a79cd",
-		"unreleased": true
+		"id": "cc310729-599a-4f52-8e95-24fcc64a79cd"
 	},
 	{
 		"prefix": "DG/MEDIA/MvdS1",
@@ -802,8 +795,7 @@
 			"115790bc-b84d-480f-83b7-3612c6b0687e"
 		],
 		"title": "Bewust zijn van de medialisering van de samenleving",
-		"id": "246b1a40-3e9f-49d2-8666-aaf1bdb399fd",
-		"unreleased": true
+		"id": "246b1a40-3e9f-49d2-8666-aaf1bdb399fd"
 	},
 	{
 		"prefix": "DG/MEDIA/M&B1",
@@ -836,8 +828,7 @@
 			"aa348be7-74c0-4ad2-b34b-188c813ad8f4"
 		],
 		"title": "Kennis hebben van verschillende functies van media",
-		"id": "3af211bc-b84e-4682-8693-8c9d420b296c",
-		"unreleased": true
+		"id": "3af211bc-b84e-4682-8693-8c9d420b296c"
 	},
 	{
 		"prefix": "DG/MEDIA/M&B2",
@@ -867,8 +858,7 @@
 			"0d4b5ed9-b0c5-431b-82ab-dd03a2984549"
 		],
 		"title": "Kennis hebben van de invloed van media op de werkelijkheid",
-		"id": "9bef9719-52c4-480b-a9fb-41e65702bfc6",
-		"unreleased": true
+		"id": "9bef9719-52c4-480b-a9fb-41e65702bfc6"
 	},
 	{
 		"prefix": "DG/MEDIA/MIP1",
@@ -896,8 +886,7 @@
 			"2d38d5ea-a4ec-40d8-b303-85ab4355eed2"
 		],
 		"title": "Omgaan met media en sociale netwerken",
-		"id": "8b25af09-3d71-4436-84b0-2a7d712b78f3",
-		"unreleased": true
+		"id": "8b25af09-3d71-4436-84b0-2a7d712b78f3"
 	},
 	{
 		"prefix": "DG/MEDIA/MIP2",
@@ -913,7 +902,6 @@
 			"8cf11dca-7ec7-4e01-b4a1-2131809d55f0"
 		],
 		"title": "Reflectie op het 'eigen' mediagebruik",
-		"id": "b6cdd5a8-4a1f-43ff-8a06-2b52930626e4",
-		"unreleased": true
+		"id": "b6cdd5a8-4a1f-43ff-8a06-2b52930626e4"
 	}
 ]

@@ -2469,8 +2469,7 @@
 			"1632ce41-b5bd-4fc9-92f3-eb018abd920d"
 		],
 		"title": "Basisbegrippen ICT ​ ​",
-		"id": "da41c7f5-59a8-44f8-8050-be2d91f7041d",
-		"unreleased": true
+		"id": "da41c7f5-59a8-44f8-8050-be2d91f7041d"
 	},
 	{
 		"prefix": "DG/IDG/CT/IT",
@@ -2479,8 +2478,7 @@
 			"6778732e-1204-435e-8f3c-1717c3ec4428"
 		],
 		"title": "Infrastructuur technologie ​ ​ ​ ​ ​ ​ ​",
-		"id": "f541f008-c0db-4f7e-9a8d-dffbf8f38379",
-		"unreleased": true
+		"id": "f541f008-c0db-4f7e-9a8d-dffbf8f38379"
 	},
 	{
 		"prefix": "DG/IDG/CT/ST",
@@ -2489,8 +2487,7 @@
 			"d932d0d3-4bbf-43b5-8a1e-d2437b1c5bcb"
 		],
 		"title": "Standaardtoepassingen ​ ​ ​ ​ ​ ​ ​",
-		"id": "b38d0188-e413-49c8-90e6-ea4804de2b82",
-		"unreleased": true
+		"id": "b38d0188-e413-49c8-90e6-ea4804de2b82"
 	},
 	{
 		"prefix": "DG/IDG/CT/VH",
@@ -2498,8 +2495,7 @@
 			"bbea6455-262a-4891-bab9-6f791bc2f1e5"
 		],
 		"title": "Veiligheid ​ ​ ​",
-		"id": "a7e804fe-3068-4423-8552-e9df571416d7",
-		"unreleased": true
+		"id": "a7e804fe-3068-4423-8552-e9df571416d7"
 	},
 	{
 		"prefix": "DG/IDG/CT/C&P",
@@ -2508,8 +2504,7 @@
 			"cc310729-599a-4f52-8e95-24fcc64a79cd"
 		],
 		"title": "Creëren en publiceren van media",
-		"id": "18755930-b632-44bb-83ce-a2aa507c9139",
-		"unreleased": true
+		"id": "18755930-b632-44bb-83ce-a2aa507c9139"
 	},
 	{
 		"prefix": "DG/INF/FORM",
@@ -2528,8 +2523,7 @@
 			"f989cbbb-3549-4d4c-9c73-9479840e8a77"
 		],
 		"title": "Stap 1: Informatieprobleem formuleren",
-		"id": "288a267d-5399-4688-b0cc-26edc568c407",
-		"unreleased": true
+		"id": "288a267d-5399-4688-b0cc-26edc568c407"
 	},
 	{
 		"prefix": "DG/INF/ZOEK",
@@ -2553,8 +2547,7 @@
 			"bc3d8e45-e009-40aa-b58c-9e9517bba0b4"
 		],
 		"title": "Stap 2: Zoekstrategieën ​ ​ ​",
-		"id": "d037c6bd-6240-432e-bd24-788df92c91df",
-		"unreleased": true
+		"id": "d037c6bd-6240-432e-bd24-788df92c91df"
 	},
 	{
 		"prefix": "DG/INF/V&S",
@@ -2576,8 +2569,7 @@
 			"13c8bd59-f23c-4781-8d3f-9b5e720e48e6"
 		],
 		"title": "Stap 3: Verwerven en selecteren van informatie ​",
-		"id": "9684bab9-41ba-4cc3-9dec-a914a2600c86",
-		"unreleased": true
+		"id": "9684bab9-41ba-4cc3-9dec-a914a2600c86"
 	},
 	{
 		"prefix": "DG/INF/VERW",
@@ -2600,8 +2592,7 @@
 			"b8791b42-3d89-41fd-8e8f-0f7846a609a6"
 		],
 		"title": "Stap 4: Verwerken van informatie ​ ​",
-		"id": "225aa379-072c-495d-a0be-fd345ec8b746",
-		"unreleased": true
+		"id": "225aa379-072c-495d-a0be-fd345ec8b746"
 	},
 	{
 		"prefix": "DG/INF/PRES",
@@ -2614,8 +2605,7 @@
 			"24106b58-57e0-49eb-a320-2ec23d2c0137"
 		],
 		"title": "Stap 5: Presenteren van informatie ​",
-		"id": "12bb4602-8211-4083-aff2-f6b648618e91",
-		"unreleased": true
+		"id": "12bb4602-8211-4083-aff2-f6b648618e91"
 	},
 	{
 		"prefix": "DG/INF/E&B",
@@ -2630,8 +2620,7 @@
 			"2b7e233d-c1a4-48cf-b667-516921c78e36"
 		],
 		"title": "Stap 6: Evalueren en beoordelen ​",
-		"id": "4254aa18-a286-464d-a3bc-59243d64f677",
-		"unreleased": true
+		"id": "4254aa18-a286-464d-a3bc-59243d64f677"
 	},
 	{
 		"prefix": "DG/MEDIA/MvdS",
@@ -2639,8 +2628,7 @@
 			"246b1a40-3e9f-49d2-8666-aaf1bdb399fd"
 		],
 		"title": "Medialisering van de samenleving",
-		"id": "86842223-52a0-4940-b969-80df2403b20d",
-		"unreleased": true
+		"id": "86842223-52a0-4940-b969-80df2403b20d"
 	},
 	{
 		"prefix": "DG/MEDIA/M&B",
@@ -2649,8 +2637,7 @@
 			"9bef9719-52c4-480b-a9fb-41e65702bfc6"
 		],
 		"title": "Media en beeldvorming",
-		"id": "914d98d7-6bcf-4127-a63e-88c30c6ddb62",
-		"unreleased": true
+		"id": "914d98d7-6bcf-4127-a63e-88c30c6ddb62"
 	},
 	{
 		"prefix": "DG/MEDIA/MIP",
@@ -2659,8 +2646,7 @@
 			"b6cdd5a8-4a1f-43ff-8a06-2b52930626e4"
 		],
 		"title": "Media, identiteit en participatie",
-		"id": "efff0504-2d23-43ed-89f3-b66d42309da1",
-		"unreleased": true
+		"id": "efff0504-2d23-43ed-89f3-b66d42309da1"
 	},
 	{
 		"prefix": "DG/CT/PF",
@@ -2683,8 +2669,7 @@
 			"cf931ae7-4717-4629-9cc4-e7a0441b452b"
 		],
 		"title": "Problemen (her)fomuleren ​",
-		"id": "4f13b96d-3436-4cd5-9d18-ced617478e88",
-		"unreleased": true
+		"id": "4f13b96d-3436-4cd5-9d18-ced617478e88"
 	},
 	{
 		"prefix": "DG/CT/GV",
@@ -2703,8 +2688,7 @@
 			"cb7c6863-4e1c-4003-95cb-56ca73a457f0"
 		],
 		"title": "Gegevens verzamelen ​",
-		"id": "36263d7e-9d83-4c4a-b122-e80cf07ab73e",
-		"unreleased": true
+		"id": "36263d7e-9d83-4c4a-b122-e80cf07ab73e"
 	},
 	{
 		"prefix": "DG/CT/GA",
@@ -2729,8 +2713,7 @@
 			"5c0a6cf8-a255-40da-a55c-ec508ff91f4d"
 		],
 		"title": "Gegevens analyseren ​ ​",
-		"id": "2150875f-61a1-4fa4-b407-fb21bac3ea58",
-		"unreleased": true
+		"id": "2150875f-61a1-4fa4-b407-fb21bac3ea58"
 	},
 	{
 		"prefix": "DG/CT/GVI",
@@ -2750,8 +2733,7 @@
 			"68b0b257-495f-4381-ae2d-18414290cc83"
 		],
 		"title": "Gegevens visualiseren ​ ​ ​ ​",
-		"id": "f3a121c0-4f18-490f-9aff-7662a2fa7b3c",
-		"unreleased": true
+		"id": "f3a121c0-4f18-490f-9aff-7662a2fa7b3c"
 	},
 	{
 		"prefix": "DG/CT/PD",
@@ -2779,8 +2761,7 @@
 			"053c735b-dce5-4d4a-bc6a-b00f3a1d28d8"
 		],
 		"title": "Probleem decompositie",
-		"id": "428d099e-2126-41e1-bb5d-e982a851b4b7",
-		"unreleased": true
+		"id": "428d099e-2126-41e1-bb5d-e982a851b4b7"
 	},
 	{
 		"prefix": "DG/CT/ABS",
@@ -2806,8 +2787,7 @@
 			"201199e8-0429-4b74-8f9f-d83b8d2fef89"
 		],
 		"title": "Abstractie",
-		"id": "cd5724a0-c290-49cb-8a97-28aeee647e12",
-		"unreleased": true
+		"id": "cd5724a0-c290-49cb-8a97-28aeee647e12"
 	},
 	{
 		"prefix": "DG/CT/A&P",
@@ -2854,8 +2834,7 @@
 			"d4175297-6e5d-4c0c-9306-64d297187c68"
 		],
 		"title": "Algoritmes en procedures ​ ​ ​",
-		"id": "e25a88f0-f45c-4692-a12f-569246c66623",
-		"unreleased": true
+		"id": "e25a88f0-f45c-4692-a12f-569246c66623"
 	},
 	{
 		"prefix": "DG/CT/AUT",
@@ -2877,8 +2856,7 @@
 			"e12823af-990b-40e0-8180-4b0f45460acd"
 		],
 		"title": "Automatisering   ​ ​",
-		"id": "343efe27-76c9-4b56-a24c-0860d438bb5c",
-		"unreleased": true
+		"id": "343efe27-76c9-4b56-a24c-0860d438bb5c"
 	},
 	{
 		"prefix": "DG/CT/S&M",
@@ -2903,8 +2881,7 @@
 			"3c2fa04f-147b-46a0-ad17-5a3910475911"
 		],
 		"title": "Simulatie en modellering ​ ​ ​",
-		"id": "a0eae31c-fc7b-4276-b4bf-69b0a9ee7692",
-		"unreleased": true
+		"id": "a0eae31c-fc7b-4276-b4bf-69b0a9ee7692"
 	},
 	{
 		"prefix": "DG/CT/PAR",
@@ -2917,7 +2894,6 @@
 			"ab958ccf-b625-4edd-9cc2-a83c3f1d527e"
 		],
 		"title": "Parallellisatie",
-		"id": "8cbb7884-caa7-4e3d-837e-6bd8c83ad181",
-		"unreleased": true
+		"id": "8cbb7884-caa7-4e3d-837e-6bd8c83ad181"
 	}
 ]
