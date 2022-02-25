@@ -1,16 +1,17 @@
 [
 	{
-		"prefix": "ojw/ja",
+		"prefix": "OJW/ja",
 		"inh_cluster_id": [
 			"e9a12ef2-679e-4f9a-8c1e-36ddd2ddeeb6",
 			"4b04b52b-896a-4db2-8c8e-26bd87d600d0",
 			"89faf7d5-ab13-4987-bff0-0b717129fa34"
 		],
-		"title": "Jezelf en de ander",
-		"id": "88381db4-d911-45d2-a243-2958873eec98"
+		"title": "Inhoudslijn Jezelf en de ander",
+		"id": "88381db4-d911-45d2-a243-2958873eec98",
+		"description": ""
 	},
 	{
-		"prefix": "ojw/ds",
+		"prefix": "OJW/ds",
 		"inh_cluster_id": [
 			"5fbee9e2-d530-42c3-958b-6db14933d21f",
 			"b02da96e-29c7-464f-8c31-4f4961ed8c56",
@@ -19,11 +20,12 @@
 			"2e12886e-c772-43ce-9de2-b5663764dd83",
 			"7167c7a2-99af-404b-b9c5-7a633420d6c7"
 		],
-		"title": "De samenleving",
-		"id": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea"
+		"title": "Inhoudslijn De samenleving",
+		"id": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
+		"description": ""
 	},
 	{
-		"prefix": "ojw/rojh",
+		"prefix": "OJW/rojh",
 		"inh_cluster_id": [
 			"69667029-bd2f-4395-8502-32964fb5d8d4",
 			"3ce09d83-9890-48dc-b0e5-dc7636b99b5c",
@@ -33,11 +35,12 @@
 			"b8934182-febf-43cd-9b17-0ef9b0f1e52b",
 			"82d5d747-a81d-4e05-8c41-b97d958b539c"
 		],
-		"title": "De ruimte om je heen",
-		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee"
+		"title": "Inhoudslijn De ruimte om je heen",
+		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee",
+		"description": ""
 	},
 	{
-		"prefix": "ojw/pdm",
+		"prefix": "OJW/pdm",
 		"inh_cluster_id": [
 			"04477187-40a3-46cb-a955-18c361731258",
 			"f4040402-33c1-42b7-9346-194cab0d815c",
@@ -45,31 +48,34 @@
 			"d4828b9e-acc6-4d9a-8bfa-b4e14ed72d7a",
 			"76f9a7cc-dfa9-4bbd-9523-78abb0def5e0"
 		],
-		"title": "Planten, dieren en de mens",
-		"id": "019cc172-064c-419a-aedc-7f264d2c2796"
+		"title": "Inhoudslijn Planten, dieren en de mens",
+		"id": "019cc172-064c-419a-aedc-7f264d2c2796",
+		"description": ""
 	},
 	{
-		"prefix": "ojw/tijd",
+		"prefix": "OJW/tijd",
 		"inh_cluster_id": [
 			"7e228aa1-025b-4093-b97e-4daf2d9e6d9b",
 			"676da7ee-2ada-424c-984d-84d42b0ebe9b",
 			"3e2ffe7e-f1c1-4cdf-a6e4-25042950162d"
 		],
-		"title": "Tijd",
-		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1"
+		"title": "Inhoudslijn Tijd",
+		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1",
+		"description": ""
 	},
 	{
-		"prefix": "ojw/nattech",
+		"prefix": "OJW/nattech",
 		"inh_cluster_id": [
 			"1d0e6ec2-f241-42c1-9431-c1ef510a7225",
 			"2e7b0f0d-1231-4a12-8c9c-d56b62a06bf3",
 			"29383320-cd96-4a6e-bec9-1c5c081ff84f"
 		],
-		"title": "Verschijnselen uit natuurkunde en techniek",
-		"id": "0ee152e0-e7b3-42e9-8667-057060391ab2"
+		"title": "Inhoudslijn Verschijnselen uit natuurkunde en techniek",
+		"id": "0ee152e0-e7b3-42e9-8667-057060391ab2",
+		"description": ""
 	},
 	{
-		"prefix": "bo",
+		"prefix": "BO",
 		"inh_cluster_id": [
 			"94cc00ac-d077-4c3d-8d2c-63b748669fae",
 			"d096dc33-f99d-472f-83ba-575d68a314c6",
@@ -104,11 +110,12 @@
 			"27f15a12-c9ae-4344-8782-5a5560d2df21",
 			"ab4426e8-7d8c-494c-8ba7-526162f89b1c"
 		],
-		"title": "Bewegingsonderwijs",
-		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79"
+		"title": "Inhoudslijn Bewegingsonderwijs",
+		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79",
+		"description": ""
 	},
 	{
-		"prefix": "ko/bv",
+		"prefix": "KO/bv",
 		"inh_cluster_id": [
 			"f0de38d3-a637-4471-b28b-241b7cb01f54",
 			"a631f123-4da1-46fd-824f-ee7fab282ad7",
@@ -120,7 +127,7 @@
 		"id": "a5a4c20f-ff30-4e37-8451-48da39113c71"
 	},
 	{
-		"prefix": "ko/mu",
+		"prefix": "KO/mu",
 		"inh_cluster_id": [
 			"03c5356a-0c3e-4641-9583-bfa147d71243",
 			"9b04b073-822a-4e6b-98dd-08b431f50647",
@@ -132,7 +139,7 @@
 		"id": "ed6b3fe7-cbec-4aff-bdef-87c62988132d"
 	},
 	{
-		"prefix": "ko/dr",
+		"prefix": "KO/dr",
 		"inh_cluster_id": [
 			"61719a36-83f7-41a2-a94d-c520e5caccf0",
 			"4f9e41c4-ec04-4520-89fa-97a06e70edb7",
@@ -144,7 +151,7 @@
 		"id": "8d5541a0-b508-4cbc-9e05-bad375108b55"
 	},
 	{
-		"prefix": "ko/da",
+		"prefix": "KO/da",
 		"inh_cluster_id": [
 			"6dbb172c-68ff-4701-af4b-e29aad964dcd",
 			"44f871ec-187e-4a37-a134-cd8b6cc9870a",
@@ -156,7 +163,7 @@
 		"id": "b2b93fbc-7a7e-4450-9e21-f30394d97f99"
 	},
 	{
-		"prefix": "ko/ce",
+		"prefix": "KO/ce",
 		"inh_cluster_id": [
 			"e1110bac-a1cc-47f2-ae51-3b89eae22d01",
 			"3a0ffad2-2042-478d-a7f6-960c542b4a2b",
@@ -164,11 +171,12 @@
 			"b5e6cb55-6542-4817-8eda-7f458d554494",
 			"752d5da2-d804-440b-909e-3be1ecd8789c"
 		],
-		"title": "Inhoudslijn Cutureel erfgoed",
-		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e"
+		"title": "Inhoudslijn Cultureel erfgoed",
+		"id": "c8a262dc-084e-4337-b231-4d52d7b6ee0e",
+		"description": ""
 	},
 	{
-		"prefix": "rw/gb",
+		"prefix": "RW/gb",
 		"inh_cluster_id": [
 			"abf0d4e9-1668-4e81-b793-3a9362c41523",
 			"8e967823-94c6-4798-aad6-54ae4d948210",
@@ -180,7 +188,7 @@
 		"id": "56ef5d20-2bce-4670-9ef3-b5df997f9d63"
 	},
 	{
-		"prefix": "rw/bew",
+		"prefix": "RW/bew",
 		"inh_cluster_id": [
 			"2528f8fa-f48d-41ee-8499-c1b65e0bcdf7",
 			"faf3d978-b4cc-4e81-915f-9d51d26f2539",
@@ -194,7 +202,7 @@
 		"id": "e5e72d14-02a6-4e88-b451-a206c1e6c4ee"
 	},
 	{
-		"prefix": "rw/verh",
+		"prefix": "RW/verh",
 		"inh_cluster_id": [
 			"7b0ba86e-3cff-4b1a-b0c9-e08cdc6ab0f8",
 			"154c08cc-e671-491b-bb39-4a6a37160f6a",
@@ -205,7 +213,7 @@
 		"id": "8f91da01-44ef-4f73-97e2-e83941d38cea"
 	},
 	{
-		"prefix": "rw/m",
+		"prefix": "RW/m",
 		"inh_cluster_id": [
 			"6751a815-f132-4bc7-ae29-2825a9b20bb6",
 			"1a149dd1-1ed7-4d83-9af8-b01f9f1434d3",
@@ -220,7 +228,7 @@
 		"id": "75042071-87ce-4115-9056-930c67538aaa"
 	},
 	{
-		"prefix": "rw/mk",
+		"prefix": "RW/mk",
 		"inh_cluster_id": [
 			"b701a3a4-64e0-4a49-8644-9daefe7cc998",
 			"e143cb16-126e-4717-aa6f-67d428bf8357",
@@ -230,13 +238,14 @@
 		"id": "40793391-b02d-437b-9466-91a009828fdf"
 	},
 	{
-		"prefix": "rw/verb",
+		"prefix": "RW/verb",
 		"inh_cluster_id": [
 			"a35e4538-e50c-4953-aa18-005ee1f0c87d",
 			"877cb24e-1a92-4f3a-910f-d7fcd58bd52c"
 		],
-		"title": "Verbanden",
-		"id": "b2b40b03-dc06-438a-b347-1d70c697e819"
+		"title": "Inhoudslijn Verbanden",
+		"id": "b2b40b03-dc06-438a-b347-1d70c697e819",
+		"description": ""
 	},
 	{
 		"prefix": "NE/MT",
@@ -261,8 +270,9 @@
 			"f7c103b9-3879-4216-92d6-42e679c2b6cc",
 			"bdcd2a9c-f6ac-4ece-9088-b31a6b5bcd61"
 		],
-		"title": "Lezen",
-		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795"
+		"title": "Inhoudslijn Lezen",
+		"id": "f92e7aad-67d6-4b35-be8b-ac074e932795",
+		"description": ""
 	},
 	{
 		"prefix": "NE/SCH",
@@ -270,8 +280,9 @@
 			"4c0f3b6e-c590-4e45-ba6b-43d67e787bac",
 			"bb913ffc-29cc-4c40-b126-f48467741df7"
 		],
-		"title": "Schrijven",
-		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149"
+		"title": "Inhoudslijn Schrijven",
+		"id": "c0a7daf7-9823-465c-95d0-f78129a5b149",
+		"description": ""
 	},
 	{
 		"prefix": "NE/TB",
@@ -280,7 +291,64 @@
 			"e1fe5ecb-b82d-4a50-b398-4882c3f77b33",
 			"be84e200-4010-488a-8427-05683b0f6d7f"
 		],
-		"title": "Taalbeschouwing",
-		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1"
+		"title": "Inhoudslijn Taalbeschouwing",
+		"id": "90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1",
+		"description": ""
+	},
+	{
+		"prefix": "DG/ICT",
+		"inh_cluster_id": [
+			"da41c7f5-59a8-44f8-8050-be2d91f7041d",
+			"f541f008-c0db-4f7e-9a8d-dffbf8f38379",
+			"b38d0188-e413-49c8-90e6-ea4804de2b82",
+			"a7e804fe-3068-4423-8552-e9df571416d7",
+			"18755930-b632-44bb-83ce-a2aa507c9139"
+		],
+		"description": "Kennis en vaardigheden die nodig zijn om met computers (in allerlei vormen) om te gaan. Het gaat hier om de bediening, de mogelijkheden en de beperkingen van digitale technologie. Deze basisvaardigheden zijn de onderlegger voor de andere onderdelen van digitale geletterdheid",
+		"title": "Inhoudslijn ICT Basisvaardigheden",
+		"id": "744aeab1-8c33-4338-a0bd-9939416e5121"
+	},
+	{
+		"prefix": "DG/INF",
+		"inh_cluster_id": [
+			"288a267d-5399-4688-b0cc-26edc568c407",
+			"d037c6bd-6240-432e-bd24-788df92c91df",
+			"9684bab9-41ba-4cc3-9dec-a914a2600c86",
+			"225aa379-072c-495d-a0be-fd345ec8b746",
+			"12bb4602-8211-4083-aff2-f6b648618e91",
+			"4254aa18-a286-464d-a3bc-59243d64f677"
+		],
+		"description": "(Onderzoeks-)proces om systematisch, effectief en efficiënt digitale informatie te zoeken, vinden en delen",
+		"title": "Inhoudslijn Informatievaardigheden",
+		"id": "804f19f2-8231-4d0d-9579-cf35c8c2c25c"
+	},
+	{
+		"prefix": "DG/MEDIA",
+		"inh_cluster_id": [
+			"86842223-52a0-4940-b969-80df2403b20d",
+			"914d98d7-6bcf-4127-a63e-88c30c6ddb62",
+			"efff0504-2d23-43ed-89f3-b66d42309da1"
+		],
+		"description": "Kennis, vaardigheden en mentaliteit die nodig zijn om bewust, kritisch en actief om te gaan met digitale media",
+		"title": "Inhoudslijn Mediawijsheid",
+		"id": "cb806f58-f342-463f-9a76-282abedc474a"
+	},
+	{
+		"prefix": "DG/CT",
+		"inh_cluster_id": [
+			"4f13b96d-3436-4cd5-9d18-ced617478e88",
+			"36263d7e-9d83-4c4a-b122-e80cf07ab73e",
+			"2150875f-61a1-4fa4-b407-fb21bac3ea58",
+			"f3a121c0-4f18-490f-9aff-7662a2fa7b3c",
+			"428d099e-2126-41e1-bb5d-e982a851b4b7",
+			"cd5724a0-c290-49cb-8a97-28aeee647e12",
+			"e25a88f0-f45c-4692-a12f-569246c66623",
+			"343efe27-76c9-4b56-a24c-0860d438bb5c",
+			"a0eae31c-fc7b-4276-b4bf-69b0a9ee7692",
+			"8cbb7884-caa7-4e3d-837e-6bd8c83ad181"
+		],
+		"description": "Denkvaardigheden en technologie richting programmeren",
+		"title": "Inhoudslijn Computational thinking",
+		"id": "ebf0b877-e83c-484f-a14e-14680a1f33a2"
 	}
 ]

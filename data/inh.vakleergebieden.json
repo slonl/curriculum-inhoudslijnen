@@ -1,7 +1,23 @@
 [
 	{
-		"prefix": "ojw",
-		"vakleergebied_id": "86be4684-a214-432b-9622-dd97491e6ce2",
+		"prefix": "DG",
+		"vakleergebied_id": [
+			"5542232a-dafd-49e8-a7fa-fa918605f3ba"
+		],
+		"inh_inhoudslijn_id": [
+			"744aeab1-8c33-4338-a0bd-9939416e5121",
+			"804f19f2-8231-4d0d-9579-cf35c8c2c25c",
+			"cb806f58-f342-463f-9a76-282abedc474a",
+			"ebf0b877-e83c-484f-a14e-14680a1f33a2"
+		],
+		"title": "Digitale geletterdheid",
+		"id": "8057a6f5-da25-4bc9-b1eb-77c4855ebe4f"
+	},
+	{
+		"prefix": "OJW",
+		"vakleergebied_id": [
+			"682218a8-0e89-4d4c-938c-36629a474e7c"
+		],
 		"inh_inhoudslijn_id": [
 			"88381db4-d911-45d2-a243-2958873eec98",
 			"48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
@@ -11,20 +27,31 @@
 			"0ee152e0-e7b3-42e9-8667-057060391ab2"
 		],
 		"title": "Orientatie op jezelf en de wereld",
-		"id": "0c1d1325-91f5-4700-b6fc-5f537364f00c"
+		"id": "caca37da-720b-4b3e-983c-d3fc58604e4a",
+		"description": "",
+		"replaces": [
+			"0c1d1325-91f5-4700-b6fc-5f537364f00c"
+		]
 	},
 	{
-		"prefix": "bo",
-		"vakleergebied_id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
+		"prefix": "BO",
+		"vakleergebied_id": [
+			"4f2f7088-7cbc-4f5f-b857-f80f8b697bf4"
+		],
 		"inh_inhoudslijn_id": [
 			"047c0c12-e4fb-47a0-9a96-dd9f8d68bf79"
 		],
 		"title": "Bewegingsonderwijs",
-		"id": "2ad73df9-35a0-4b9d-a946-bf501a0bff40"
+		"id": "95c4d94a-db95-474a-9790-76f1c2ff6444",
+		"replaces": [
+			"2ad73df9-35a0-4b9d-a946-bf501a0bff40"
+		]
 	},
 	{
-		"prefix": "ko",
-		"vakleergebied_id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
+		"prefix": "KO",
+		"vakleergebied_id": [
+			"60133458-f6b1-4a6e-8e62-ea5ff0b8e9b7"
+		],
 		"inh_inhoudslijn_id": [
 			"a5a4c20f-ff30-4e37-8451-48da39113c71",
 			"ed6b3fe7-cbec-4aff-bdef-87c62988132d",
@@ -33,11 +60,17 @@
 			"c8a262dc-084e-4337-b231-4d52d7b6ee0e"
 		],
 		"title": "Kunstzinnige oriëntatie",
-		"id": "0a160ad0-197f-450d-8fb7-c11aa0509b47"
+		"id": "a73345fd-375c-4776-937d-76ada71cb148",
+		"description": "",
+		"replaces": [
+			"0a160ad0-197f-450d-8fb7-c11aa0509b47"
+		]
 	},
 	{
-		"prefix": "rw",
-		"vakleergebied_id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
+		"prefix": "RW",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
 		"inh_inhoudslijn_id": [
 			"56ef5d20-2bce-4670-9ef3-b5df997f9d63",
 			"e5e72d14-02a6-4e88-b451-a206c1e6c4ee",
@@ -47,11 +80,16 @@
 			"b2b40b03-dc06-438a-b347-1d70c697e819"
 		],
 		"title": "Rekenen en wiskunde",
-		"id": "de856286-e572-4ab9-a21f-7dce64a25645"
+		"id": "f6b7b810-1144-4ec5-bd85-d34285ce7625",
+		"replaces": [
+			"de856286-e572-4ab9-a21f-7dce64a25645"
+		]
 	},
 	{
 		"prefix": "NE",
-		"vakleergebied_id": "96b622d6-264d-4f7a-9875-681ded824e21",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
 		"inh_inhoudslijn_id": [
 			"8fe2ea1f-d8fb-4ddb-a5f2-53f63fd3c0b2",
 			"f92e7aad-67d6-4b35-be8b-ac074e932795",
@@ -59,6 +97,10 @@
 			"90c48b5f-c9ca-4a9d-a2f4-6d935f3d60a1"
 		],
 		"title": "Nederlands",
-		"id": "73090153-6e32-4258-b6b8-d27001b4ea28"
+		"id": "87a8ff37-6f8f-4957-832e-cb982bcd3552",
+		"description": "",
+		"replaces": [
+			"73090153-6e32-4258-b6b8-d27001b4ea28"
+		]
 	}
 ]
