@@ -9,8 +9,6 @@ async function validate() {
 		let result = await curriculum.validate(schema)
 		console.log('Data is valid!')
 	} catch(error) {
-		console.log(error)
-		process.exit()
 		error.validationErrors.forEach(error => {
 			console.log(error.instancePath+': '+error.message)
 		})
