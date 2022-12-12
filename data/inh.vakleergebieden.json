@@ -14,26 +14,6 @@
 		"id": "8057a6f5-da25-4bc9-b1eb-77c4855ebe4f"
 	},
 	{
-		"prefix": "OJW",
-		"vakleergebied_id": [
-			"682218a8-0e89-4d4c-938c-36629a474e7c"
-		],
-		"inh_inhoudslijn_id": [
-			"88381db4-d911-45d2-a243-2958873eec98",
-			"48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
-			"a4aff8df-45ce-4044-99a3-821717ffb3ee",
-			"019cc172-064c-419a-aedc-7f264d2c2796",
-			"2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1",
-			"0ee152e0-e7b3-42e9-8667-057060391ab2"
-		],
-		"title": "Orientatie op jezelf en de wereld",
-		"id": "caca37da-720b-4b3e-983c-d3fc58604e4a",
-		"description": "",
-		"replaces": [
-			"0c1d1325-91f5-4700-b6fc-5f537364f00c"
-		]
-	},
-	{
 		"prefix": "BO",
 		"vakleergebied_id": [
 			"4f2f7088-7cbc-4f5f-b857-f80f8b697bf4"
@@ -101,6 +81,27 @@
 		"description": "",
 		"replaces": [
 			"73090153-6e32-4258-b6b8-d27001b4ea28"
+		]
+	},
+	{
+		"prefix": "OJW",
+		"vakleergebied_id": [
+			"682218a8-0e89-4d4c-938c-36629a474e7c"
+		],
+		"inh_inhoudslijn_id": [
+			"88381db4-d911-45d2-a243-2958873eec98",
+			"48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
+			"1a8424e5-c5fa-4808-91ae-8c81d04b4452",
+			"dd2a06a4-41a7-434d-9735-f98cc0bdd95f",
+			"6811dcc6-3520-4fab-9fa8-ffb1c750a901",
+			"0ee152e0-e7b3-42e9-8667-057060391ab2"
+		],
+		"title": "Orientatie op jezelf en de wereld",
+		"id": "6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+		"description": "",
+		"replaces": [
+			"0c1d1325-91f5-4700-b6fc-5f537364f00c",
+			"caca37da-720b-4b3e-983c-d3fc58604e4a"
 		]
 	}
 ]

@@ -25,45 +25,6 @@
 		"description": ""
 	},
 	{
-		"prefix": "OJW/rojh",
-		"inh_cluster_id": [
-			"69667029-bd2f-4395-8502-32964fb5d8d4",
-			"3ce09d83-9890-48dc-b0e5-dc7636b99b5c",
-			"ce90e6e4-6b72-4df7-a589-9468a6119ca9",
-			"5279a521-919a-4ff9-afaa-4a25d7d87677",
-			"c01cebc0-7592-490b-bbbf-6bea905289fb",
-			"b8934182-febf-43cd-9b17-0ef9b0f1e52b",
-			"82d5d747-a81d-4e05-8c41-b97d958b539c"
-		],
-		"title": "Inhoudslijn De ruimte om je heen",
-		"id": "a4aff8df-45ce-4044-99a3-821717ffb3ee",
-		"description": ""
-	},
-	{
-		"prefix": "OJW/pdm",
-		"inh_cluster_id": [
-			"04477187-40a3-46cb-a955-18c361731258",
-			"f4040402-33c1-42b7-9346-194cab0d815c",
-			"c60c18ed-467c-4d7d-862e-da332975709a",
-			"d4828b9e-acc6-4d9a-8bfa-b4e14ed72d7a",
-			"76f9a7cc-dfa9-4bbd-9523-78abb0def5e0"
-		],
-		"title": "Inhoudslijn Planten, dieren en de mens",
-		"id": "019cc172-064c-419a-aedc-7f264d2c2796",
-		"description": ""
-	},
-	{
-		"prefix": "OJW/tijd",
-		"inh_cluster_id": [
-			"7e228aa1-025b-4093-b97e-4daf2d9e6d9b",
-			"676da7ee-2ada-424c-984d-84d42b0ebe9b",
-			"3e2ffe7e-f1c1-4cdf-a6e4-25042950162d"
-		],
-		"title": "Inhoudslijn Tijd",
-		"id": "2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1",
-		"description": ""
-	},
-	{
 		"prefix": "OJW/nattech",
 		"inh_cluster_id": [
 			"1d0e6ec2-f241-42c1-9431-c1ef510a7225",
@@ -350,5 +311,53 @@
 		"description": "Denkvaardigheden en technologie richting programmeren",
 		"title": "Inhoudslijn Computational thinking",
 		"id": "ebf0b877-e83c-484f-a14e-14680a1f33a2"
+	},
+	{
+		"prefix": "OJW/rojh",
+		"inh_cluster_id": [
+			"69667029-bd2f-4395-8502-32964fb5d8d4",
+			"3ce09d83-9890-48dc-b0e5-dc7636b99b5c",
+			"9c2c617b-ad3f-4cd3-b81f-c685f281cf4f",
+			"5279a521-919a-4ff9-afaa-4a25d7d87677",
+			"c01cebc0-7592-490b-bbbf-6bea905289fb",
+			"b8934182-febf-43cd-9b17-0ef9b0f1e52b",
+			"4ef4bb78-e997-4f30-8daf-628c7fe415b8"
+		],
+		"title": "Inhoudslijn De ruimte om je heen",
+		"id": "1a8424e5-c5fa-4808-91ae-8c81d04b4452",
+		"description": "",
+		"replaces": [
+			"a4aff8df-45ce-4044-99a3-821717ffb3ee"
+		]
+	},
+	{
+		"prefix": "OJW/pdm",
+		"inh_cluster_id": [
+			"4d9f1973-22d3-443e-b537-b6d7f9a90b06",
+			"f4040402-33c1-42b7-9346-194cab0d815c",
+			"9bf92cfc-21ec-4d03-848e-7dd130f172db",
+			"2bdbd936-1d76-4861-946b-45a4ca7bb262",
+			"2ece0891-677c-453e-9013-71c341f84db0"
+		],
+		"title": "Inhoudslijn Planten, dieren en de mens",
+		"id": "dd2a06a4-41a7-434d-9735-f98cc0bdd95f",
+		"description": "",
+		"replaces": [
+			"019cc172-064c-419a-aedc-7f264d2c2796"
+		]
+	},
+	{
+		"prefix": "OJW/tijd",
+		"inh_cluster_id": [
+			"ef0cad62-106c-4447-8326-613ab70989ea",
+			"3ad0488a-4315-41a7-ab91-db392293d4bf",
+			"660d1d34-fd2e-4523-acca-4beb3aaae3c3"
+		],
+		"title": "Inhoudslijn Tijd",
+		"id": "6811dcc6-3520-4fab-9fa8-ffb1c750a901",
+		"description": "",
+		"replaces": [
+			"2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1"
+		]
 	}
 ]
