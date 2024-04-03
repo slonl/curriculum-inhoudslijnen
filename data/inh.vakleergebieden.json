@@ -1,19 +1,5 @@
 [
 	{
-		"prefix": "DG",
-		"vakleergebied_id": [
-			"5542232a-dafd-49e8-a7fa-fa918605f3ba"
-		],
-		"inh_inhoudslijn_id": [
-			"744aeab1-8c33-4338-a0bd-9939416e5121",
-			"804f19f2-8231-4d0d-9579-cf35c8c2c25c",
-			"cb806f58-f342-463f-9a76-282abedc474a",
-			"ebf0b877-e83c-484f-a14e-14680a1f33a2"
-		],
-		"title": "Digitale geletterdheid",
-		"id": "8057a6f5-da25-4bc9-b1eb-77c4855ebe4f"
-	},
-	{
 		"prefix": "BO",
 		"vakleergebied_id": [
 			"4f2f7088-7cbc-4f5f-b857-f80f8b697bf4"
@@ -102,6 +88,23 @@
 		"replaces": [
 			"0c1d1325-91f5-4700-b6fc-5f537364f00c",
 			"caca37da-720b-4b3e-983c-d3fc58604e4a"
+		]
+	},
+	{
+		"prefix": "DG",
+		"vakleergebied_id": [
+			"b285b813-e182-46bd-ba41-bccc737e1350"
+		],
+		"inh_inhoudslijn_id": [
+			"744aeab1-8c33-4338-a0bd-9939416e5121",
+			"804f19f2-8231-4d0d-9579-cf35c8c2c25c",
+			"cb806f58-f342-463f-9a76-282abedc474a",
+			"ebf0b877-e83c-484f-a14e-14680a1f33a2"
+		],
+		"title": "Digitale geletterdheid",
+		"id": "e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+		"replaces": [
+			"8057a6f5-da25-4bc9-b1eb-77c4855ebe4f"
 		]
 	}
 ]
