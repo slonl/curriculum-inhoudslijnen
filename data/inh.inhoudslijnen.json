@@ -73,8 +73,7 @@
 		],
 		"title": "Inhoudslijn Bewegingsonderwijs",
 		"id": "047c0c12-e4fb-47a0-9a96-dd9f8d68bf79",
-		"description": "",
-		"dirty": "1"
+		"description": ""
 	},
 	{
 		"prefix": "KO/bv",
@@ -360,13 +359,5 @@
 		"replaces": [
 			"2aee262d-8f23-4fc4-aa5e-e1ac5fd167a1"
 		]
-	},
-	{
-		"id": "686d5d35-2102-493e-ad05-abdd3bf72a7e",
-		"dirty": "1",
-		"prefix": "AI",
-		"title": "Inhoudslijn AI",
-		"description": "",
-		"deleted": 1
 	}
 ]
